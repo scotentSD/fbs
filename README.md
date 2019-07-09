@@ -1,4 +1,4 @@
-# Shared Entry Point (Research)
+# Single Entry Point (SEP)
 ## Beta assesment Artefacts (Research)
 - [Customer Journey - Beta] ()
 - [Personas - Beta]()
