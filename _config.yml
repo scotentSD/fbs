@@ -6,14 +6,13 @@
 name: SEP
 
 # Short bio or description (displayed in the header)
-description: Designing in the open 
+description: Designing in the open
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: /images/Octocat.png
 avatar: /images/saltire.png
 
 
-#
 # Flags below are optional
 ## Includes an icon in the footer for each username you enter
 footer-links:
@@ -49,9 +48,7 @@ url: http://scotentsd.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/sep"
 
-
 excerpt_separator: "<!--more-->"
-
 
 #
 # !! You don't need to change any of the configuration flags below !!
