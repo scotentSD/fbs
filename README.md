@@ -5,7 +5,7 @@
 - UAT: [https://se-uat-singleentrypoint.azurewebsites.net/](https://se-uat-singleentrypoint.azurewebsites.net/)
 - Live: [https://www.findbusinesssupport.gov.scot/](https://www.findbusinesssupport.gov.scot/)
 
-## Beta assesment Artefacts (Research)
+## Beta Assessment Artefacts (Research)
 - [Customer Journey - Beta] ()
 - [Personas - Beta]()
 - [Persona Spectrum - Beta]()
@@ -14,7 +14,7 @@
 - [Changes made in response to research - Beta]()
 - [Objectives and key results OKR's - Beta]()
 
-## Alpha Assesment Artefacts (Research)
+## Alpha Assessment Artefacts (Research)
 - [Customer Journey](/files/SingleEntryJourney.pdf)
 - [Personas](/files/SEPpersonas3.pdf)
 - [Persona Spectrum](/files/SEPspectrum.pdf)
