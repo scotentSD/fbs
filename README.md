@@ -1,4 +1,10 @@
 # Single Entry Point (SEP)
+
+## Production Links
+- QA: [https://se-qa-singleentrypoint.azurewebsites.net/](https://se-qa-singleentrypoint.azurewebsites.net/)
+- UAT: [https://se-uat-singleentrypoint.azurewebsites.net/](https://se-uat-singleentrypoint.azurewebsites.net/)
+- Live: [https://www.findbusinesssupport.gov.scot/](https://www.findbusinesssupport.gov.scot/)
+
 ## Beta assesment Artefacts (Research)
 - [Customer Journey - Beta] ()
 - [Personas - Beta]()
@@ -40,10 +46,6 @@ To kick start the project we did some early Discovery Research and then ran a De
 - [Shared Entry Point V1.1](https://xd.adobe.com/view/8bef5999-e66a-4c8d-5007-02773134ba2f-fdde/?fullscreen)
 - [UAT](https://se-uat-singleentrypoint.azurewebsites.net/)
 
-## Production Links
-- QA: [https://se-qa-singleentrypoint.azurewebsites.net/](https://se-qa-singleentrypoint.azurewebsites.net/)
-- UAT: [https://se-uat-singleentrypoint.azurewebsites.net/](https://se-uat-singleentrypoint.azurewebsites.net/)
-- Live: [https://www.findbusinesssupport.gov.scot/](https://www.findbusinesssupport.gov.scot/)
 
 ## Testing
 - [Accessibility fix list Sprint 6](a11y_6.md)
