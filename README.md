@@ -27,7 +27,6 @@ To kick start the project we did some early Discovery Research and then ran a De
 - [Service Blueprint](/files/SEPblueprint.pdf)
 - [Storymap: Features ](/files/SEPfeatures.pdf)
 
-
 ## Customer Research
 - [Usability Testing 2018](/files/SEPtest.png)
 - [March  27th 2019](/files/testrounds/sep27mar_V2.pdf)
