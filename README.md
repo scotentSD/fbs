@@ -5,11 +5,11 @@
 
 ## Beta Assessment Artefacts (Research)
 - [Customer Journey - Beta]
-- [Personas - Beta
-- [Persona Spectrum - Beta
-- [Needs vs Features - Beta
-- [Needs - Detailed view - Beta
-- [Changes made in response to research - Beta
+- [Personas - Beta]
+- [Persona Spectrum - Beta]
+- [Needs vs Features - Beta]
+- [Needs - Detailed view - Beta]
+- [Changes made in response to research - Beta]
 - [Objectives and key results OKR's - Beta]
 
 ## Alpha Assessment Artefacts (Research)
