@@ -1,8 +1,6 @@
 # Single Entry Point (SEP)
 
 ## Production Links
-- QA: [https://se-qa-singleentrypoint.azurewebsites.net/](https://se-qa-singleentrypoint.azurewebsites.net/)
-- UAT: [https://se-uat-singleentrypoint.azurewebsites.net/](https://se-uat-singleentrypoint.azurewebsites.net/)
 - Live: [https://www.findbusinesssupport.gov.scot/](https://www.findbusinesssupport.gov.scot/)
 
 ## Beta Assessment Artefacts (Research)
