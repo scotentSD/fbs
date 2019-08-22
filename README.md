@@ -50,7 +50,6 @@ To kick start the project we did some early Discovery Research and then ran a De
 - [Accessibility fix list Sprint 7](a11y_7.md)
 
 ## Resources
-- [SEP Research Analysis folder](https://scotent.sharepoint.com/:f:/s/Marketing-and-Service-Transformation/EuXPzGxWrbBLv1k5zjuZfAkB0AHk98ZaP4vr7OR_o8rKzQ?e=iFdnVx)
 - [Objectives and key results OKR's](/files/SEPOKR.pdf)
 - [OKR's. What are they?](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
 
