@@ -3,7 +3,7 @@
 ## Production Links
 - Live: [https://www.findbusinesssupport.gov.scot/](https://www.findbusinesssupport.gov.scot/)
 
-## Beta Assessment Artefacts (Research)
+## Beta Assessment Artefacts (Research) In Progress
 - [Customer Journey - Beta]
 - [Personas - Beta]
 - [Persona Spectrum - Beta]
