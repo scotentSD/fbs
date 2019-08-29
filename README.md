@@ -4,13 +4,12 @@
 - Live: [https://www.findbusinesssupport.gov.scot/](https://www.findbusinesssupport.gov.scot/)
 
 ## Beta Assessment Artefacts (Research) In Progress
-- [Customer Journey - Beta]
 - [Personas - Beta]
 - [Persona Spectrum - Beta]
 - [Needs vs Features - Beta]
 - [Needs - Detailed view - Beta]
-- [Changes made in response to research - Beta]
-- [Objectives and key results OKR's - Beta]
+- [Changes made in response to research - Beta](/files/SEP_Changes_Beta.pdf)
+
 
 ## Alpha Assessment Artefacts (Research)
 - [Customer Journey](/files/SingleEntryJourney.pdf)
