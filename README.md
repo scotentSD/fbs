@@ -11,6 +11,7 @@
 - [Changes made in response to research - Beta](/files/SEP_Changes_Beta.pdf)
 
 
+
 ## Alpha Assessment Artefacts (Research)
 - [Customer Journey](/files/SingleEntryJourney.pdf)
 - [Personas](/files/SEPpersonas3.pdf)
