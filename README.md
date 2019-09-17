@@ -8,7 +8,7 @@
 - [Persona Spectrum - Beta]
 - [Needs vs Features - Beta]
 - [Needs - Detailed view - Beta]
-- [Changes made in response to research - Beta]
+- [Changes made in response to research - Beta](SEPbetaCHANGES.pdf)
 
 
 ## Alpha Assessment Artefacts (Research)
