@@ -5,10 +5,11 @@
 
 ## Beta Assessment Artefacts (Research) In Progress
 - [Personas - Beta]
+  - Content Manager
 - [Persona Spectrum - Beta]
 - [Needs vs Features - Beta]
 - [Needs - Detailed view - Beta]
-- [Changes made in response to research - Beta](SEPbetaCHANGES.pdf)
+- [Changes made in response to research - Beta]
 
 
 ## Alpha Assessment Artefacts (Research)
@@ -66,3 +67,4 @@ the needs of businesses 'in the round' and so that businesses
 are no longer required to keep providing the same information
 to different partners.
 ```
+
