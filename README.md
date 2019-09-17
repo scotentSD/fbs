@@ -11,7 +11,7 @@
 - [Needs vs Features - Beta]
 - [Needs - Detailed view - Beta]
 - [Changes made in response to research - Beta](SEPbetaCHANGES.pdf)
-- [Beta Timeline](sepbetatimeline)
+- [Beta Timeline](sepbetatimeline.md)
 
 
 ## Alpha Assessment Artefacts (Research)
