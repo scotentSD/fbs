@@ -1,16 +1,38 @@
 # Timeline
 
-
-	<ol class="timeline">
+<ol class="timeline">
+	
 		<li class="tl-node">
-			<div class="tl-stamp">Sep 11, 2019</div>
-			<div class="tl-content">Tested prototype of Trading vs Non Trading Enquiries Form</div>
-			<a href="https://scotentsd.github.io/sep" target="_blank">Research Notes</a>
+			<div class="tl-stamp">Jan 10, 2019</div>
+			<div class="tl-content">Push site live for soft launch</div>
+			<a href="https://scotentsd.github.io/sep" target="_blank">Research</a>
 		</li>
-    
-    		<li class="tl-node">
-			<div class="tl-stamp">Jan 01, 2019</div>
-			<div class="tl-content">Template</div>
-			<a href="https://scotentsd.github.io/sep" target="_blank">Template Link</a>
+        	<li class="tl-node">
+			<div class="tl-stamp">Jan 10, 2019</div>
+			<div class="tl-content">Push site live for soft launch</div>
+			<a href="https://scotentsd.github.io/sep" target="_blank">Research</a>
 		</li>
-	</ol>
+        	<li class="tl-node">
+			<div class="tl-stamp">Jan 10, 2019</div>
+			<div class="tl-content">Push site live for soft launch</div>
+			<a href="https://scotentsd.github.io/sep" target="_blank">Research</a>
+		</li>
+        	<li class="tl-node">
+			<div class="tl-stamp">Jan 10, 2019</div>
+			<div class="tl-content">Push site live for soft launch</div>
+			<a href="https://scotentsd.github.io/sep" target="_blank">Research</a>
+		</li>
+        	<li class="tl-node">
+			<div class="tl-stamp">Jan 10, 2019</div>
+			<div class="tl-content">Push site live for soft launch</div>
+			<a href="https://scotentsd.github.io/sep" target="_blank">Research</a>
+		</li>
+        	<li class="tl-node">
+			<div class="tl-stamp">Jan 10, 2019</div>
+			<div class="tl-content">Push site live for soft launch</div>
+			<a href="https://scotentsd.github.io/sep" target="_blank">User needs agreed</a>
+		</li>
+
+</ol>
+
+
