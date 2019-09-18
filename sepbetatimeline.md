@@ -37,8 +37,6 @@
 			<div class="tl-content">PSEP Design Sprint</div>
 			<a href="#" target="_blank">TBC</a>
 		</li>
-
-    
 </ol>
 
 
