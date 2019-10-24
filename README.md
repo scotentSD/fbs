@@ -11,7 +11,7 @@
 - [Needs vs Features - Beta]
 - [Needs - Detailed view - Beta]
 - [Changes made in response to research - Beta](SEPbetaCHANGES.pdf)
-- [Beta Timeline](sepbetatimeline.md)
+- [Beta Timeline](SEPtimeline.html)
 
 
 ## Alpha Assessment Artefacts (Research)
@@ -58,6 +58,7 @@ To kick start the project we did some early Discovery Research and then ran a De
 - [Enterprise & Skills Review](https://www.gov.scot/policies/economic-growth/enterprise-and-skills-review/)
 - [Enterprise and Skills Review - Phase 1 - Call for Evidence](https://www.gov.scot/publications/enterprise-skills-review-report-phase-1/pages/1/)
 - [Enterprise & Skills Review - Phase 2 - Report](https://www.gov.scot/publications/enterprise-skills-review-report-phase-2/)
+
 
 ```
 Provide a single digital access point for business support
