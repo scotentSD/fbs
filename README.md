@@ -10,7 +10,7 @@
 - [Needs vs Features - Beta]
 - [Needs - Detailed view - Beta]
 - [Changes made in response to research - Beta](SEPbetaCHANGES.pdf)
-- [Beta Timeline](SEPtimeline.html)
+- [Beta Timeline](/pages/SEPtimeline.html)
 
 
 ## Alpha Assessment Artefacts (Research)
@@ -45,8 +45,8 @@ To kick start the project we did some early Discovery Research and then ran a De
 - [Shared Entry Point V1.1](https://xd.adobe.com/view/8bef5999-e66a-4c8d-5007-02773134ba2f-fdde/?fullscreen)
 
 ## Testing
-- [Accessibility fix list Sprint 6](a11y_6.md)
-- [Accessibility fix list Sprint 7](a11y_7.md)
+- [Accessibility fix list Sprint 6](/pages/a11y_6.md)
+- [Accessibility fix list Sprint 7](/pages/a11y_7.md)
 
 ## Resources
 - [Objectives and key results OKR's](/files/SEPOKR.pdf)
