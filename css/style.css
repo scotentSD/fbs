@@ -39,6 +39,13 @@ body {
   font-family: Roboto;
 }
 
+strong {
+	margin-top: 0.1em;
+	padding-top: 0.1em;
+	font-weight: bold;
+	display: block;
+}
+
 #timeline {
   padding: 100px 0;
   background: #f7f7f7;
@@ -130,7 +137,7 @@ body {
 }
 @media (min-width: 480px) {
   #timeline .demo-card .head h2 span {
-    font-size: 0.8rem;
+    font-size: 1.2rem;
   }
 }
 #timeline .demo-card .body {
@@ -188,6 +195,4 @@ body {
 margin-left: 0.5em;
 }
 
-strong {
-	margin-top: 0.50em;
-}
+
