@@ -195,4 +195,7 @@ strong {
 margin-left: 0.5em;
 }
 
-
+.issue {
+    color: red;
+    font-weight: bold;
+}
