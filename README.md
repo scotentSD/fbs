@@ -32,7 +32,8 @@ To kick start the project we did some early Discovery Research and then ran a De
 - [Service Blueprint](/files/SEPblueprint.pdf)
 - [Storymap: Features ](/files/SEPfeatures.pdf)
 
-## Customer Research (Being deprecated in favour of timelines with research links)
+## Customer Research 
+###(Being deprecated in favour of timelines with research links)
 - [BETA - Sep 2019 Enquiriy Form Testing](/files/SEP_EnquiryFormTestingSept2019_V5b.pptx)  
 [Usability Testing 2018](/files/SEPtest.png)
 - [March  27th 2019](/files/testrounds/sep27mar_V2.pdf)
