@@ -126,7 +126,7 @@ strong {
 }
 @media (min-width: 480px) {
   #timeline .demo-card .head h2 {
-    font-size: 165%;
+    font-size: 125%; /* was 165 and looked really big*/
     line-height: 1.2rem;
   }
 }
@@ -137,7 +137,7 @@ strong {
 }
 @media (min-width: 480px) {
   #timeline .demo-card .head h2 span {
-    font-size: 1.2rem;
+    font-size: 1rem; /* was 1.2 I've reduced so there is a difference between the date and the title? */
   }
 }
 #timeline .demo-card .body {
@@ -162,12 +162,14 @@ strong {
 }
 #timeline .demo-card--step1 { /* yellow - accessibility research */
   background-color: #f5c44b;
+  color: #000; /* added for better contrast */
 }
 #timeline .demo-card--step1 .head::after {
   border-color: #f5c44b;
 }
 #timeline .demo-card--step2 { /* greenish blue - events */
   background-color: #3ee9d1;
+  color: #000; /* added for better contrast */
 }
 #timeline .demo-card--step2 .head::after {
   border-color: #3ee9d1;
