@@ -164,11 +164,16 @@ strong {
   background-color: #f5c44b;
   color: #000; /* added for better contrast */
 }
+#timeline .demo-card--step1 h2 { /* yellow - accessibility research */
+  color: #000; /* added for better contrast */
+}
 #timeline .demo-card--step1 .head::after {
   border-color: #f5c44b;
 }
 #timeline .demo-card--step2 { /* greenish blue - events */
   background-color: #3ee9d1;
+}
+#timeline .demo-card--step2 h2 { /* greenish blue - events */
   color: #000; /* added for better contrast */
 }
 #timeline .demo-card--step2 .head::after {
