@@ -152,7 +152,7 @@ strong {
   }
 }
 #timeline .demo-card .body p {
-  font-size: 14px;
+  // removed because it made paragraph smaller than bullet list was:  font-size: 14px;
   line-height: 18px;
   margin-bottom: 15px;
 }
