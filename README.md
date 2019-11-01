@@ -10,7 +10,7 @@
 - [Persona Spectrum - Beta]
 - [Needs vs Features - Beta]
 - [Needs - Detailed view - Beta]
-- [Changes made in response to research - Beta](SEPbetaCHANGES.pdf)
+- [Changes made in response to research - Beta](files/SEPbetaCHANGES.pdf)
 - [Beta Timeline](/pages/SEPtimeline.html)
 
 
