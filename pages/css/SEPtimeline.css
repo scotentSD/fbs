@@ -152,7 +152,7 @@ strong {
   }
 }
 #timeline .demo-card .body p {
-  // removed because it made paragraph smaller than bullet list was:  font-size: 14px;
+  /* removed because it made paragraph smaller than bullet list was:  font-size: 14px; */
   line-height: 18px;
   margin-bottom: 15px;
 }
@@ -160,31 +160,31 @@ strong {
   display: block;
   width: 100%;
 }
-#timeline .demo-card--step1 { // yellow - accessibility research
+#timeline .demo-card--step1 { /* yellow - accessibility research */
   background-color: #f5c44b;
 }
 #timeline .demo-card--step1 .head::after {
   border-color: #f5c44b;
 }
-#timeline .demo-card--step2 { // greenish blue - events
+#timeline .demo-card--step2 { /* greenish blue - events */
   background-color: #3ee9d1;
 }
 #timeline .demo-card--step2 .head::after {
   border-color: #3ee9d1;
 }
-#timeline .demo-card--step3 { // purple lab research
+#timeline .demo-card--step3 { /* purple lab research */
   background-color: #ce43eb;
 }
 #timeline .demo-card--step3 .head::after {
   border-color: #ce43eb;
 }
-#timeline .demo-card--step4 { // blue online research
+#timeline .demo-card--step4 { /* blue online research */
   background-color: #4d92eb;
 }
 #timeline .demo-card--step4 .head::after {
   border-color: #4d92eb;
 }
-#timeline .demo-card--step5 { // brown for partners
+#timeline .demo-card--step5 { /* brown for partners */
   background-color: #935300;
 }
 #timeline .demo-card--step5 .head::after {
