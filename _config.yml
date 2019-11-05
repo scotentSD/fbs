@@ -80,10 +80,19 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+enabled: true
+collections: true
+
+
+
 # Exclude these files from your production _site
 exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - README.md
+#ß  - README.md
   - CNAME
