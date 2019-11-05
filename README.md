@@ -5,8 +5,8 @@
 
 ## Beta Assessment Artefacts (Research) In Progress
 - Personas - Beta
-  - [Content Manager](/files/persona-Al-content.PNG)
-  - [Enquiry Handler](/files/persona-Jo-enquiry-handling.PNG)
+  - [Content Manager](/files/persona-Al-content.PNG) 
+  - [Enquiry Handler](/files/persona-Jo-enquiry-handling.PNG) 
 - [Persona Spectrum - Beta]
 - [Needs vs Features - Beta]
 - [Needs - Detailed view - Beta]
