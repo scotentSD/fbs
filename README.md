@@ -1,4 +1,4 @@
-# Single Entry Point (SEP)
+# Single Entry Point (SEP) V2
 
 ## Production Links
 - Live: [https://www.findbusinesssupport.gov.scot/](https://www.findbusinesssupport.gov.scot/)
@@ -12,7 +12,6 @@
 - [Needs - Detailed view - Beta]
 - [Changes made in response to research - Beta](files/SEPbetaCHANGES.pdf)
 - [Beta Timeline](/_pages/SEPtimeline.html)
-
 
 ## Alpha Assessment Artefacts (Research)
 - [Customer Journey](/files/SingleEntryJourney.pdf)
