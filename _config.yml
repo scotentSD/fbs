@@ -89,4 +89,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+  - README.MD
   - CNAME
