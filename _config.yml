@@ -12,6 +12,8 @@ description: Designing in the open
 # avatar: /images/Octocat.png
 avatar: /images/saltire.png
 
+# Publish stuff with a future date
+future: true
 
 # Flags below are optional
 ## Includes an icon in the footer for each username you enter
