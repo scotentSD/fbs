@@ -12,8 +12,13 @@ description: Designing in the open
 # avatar: /images/Octocat.png
 avatar: /images/saltire.png
 
+
+#
 # Flags below are optional
-## Includes an icon in the footer for each username you enter
+#
+
+
+# Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
   email:
@@ -39,7 +44,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://scotentsd.github.io
+url: http://scotentSD.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -47,7 +52,9 @@ url: http://scotentsd.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/sep"
 
+
 excerpt_separator: "<!--more-->"
+
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -82,5 +89,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-#ß  - README.md
+  - README.md
   - CNAME
