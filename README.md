@@ -5,13 +5,13 @@
 
 ## Beta Assessment Artefacts (Research) In Progress
 - Personas - Beta
-  - [Content Manager](/files/persona-Al-content.PNG) 
-  - [Enquiry Handler](/files/persona-Jo-enquiry-handling.PNG) 
+  - [Content Manager](/files/persona-Al-content.PNG)
+  - [Enquiry Handler](/files/persona-Jo-enquiry-handling.PNG)
 - [Persona Spectrum - Beta]
 - [Needs vs Features - Beta]
 - [Needs - Detailed view - Beta]
 - [Changes made in response to research - Beta](files/SEPbetaCHANGES.pdf)
-- [Beta Timeline](/pages/SEPtimeline.html)
+- [Beta Timeline](/_pages/SEPtimeline.html)
 
 
 ## Alpha Assessment Artefacts (Research)
@@ -33,7 +33,7 @@ To kick start the project we did some early Discovery Research and then ran a De
 - [Service Blueprint](/files/SEPblueprint.pdf)
 - [Storymap: Features ](/files/SEPfeatures.pdf)
 
-## Customer Research 
+## Customer Research
 ###(Being deprecated in favour of timelines with research links)
 - [BETA - Sep 2019 Enquiriy Form Testing](/files/SEP_EnquiryFormTestingSept2019_V5b.pptx)  
 [Usability Testing 2018](/files/SEPtest.png)
@@ -69,4 +69,3 @@ the needs of businesses 'in the round' and so that businesses
 are no longer required to keep providing the same information
 to different partners.
 ```
-
