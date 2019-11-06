@@ -23,7 +23,8 @@
 [Initial wireframe mock-up](https://xd.adobe.com/view/5a465b5e-0e48-443a-6890-0daa89670e26-2c77/grid)
 
 [Full designs](https://xd.adobe.com/view/90a613ec-bc63-4c9d-771a-7ca2e9eaa1df-e697/grid)
- Enquiries
+ 
+- Enquiries
 
 [Single address field designs](https://xd.adobe.com/view/fe6c9e4b-1497-4a47-7583-59688a265f35-885d/grid/)
 
@@ -36,7 +37,7 @@
 
 [Prototype:](https://xd.adobe.com/view/6055ce74-a142-4982-4766-d35e833aee7f-1664/?fullscreen)
 
-[Filters prototype:](https://s48f6s.axshare.com)
+[Filters prototype](https://s48f6s.axshare.com)
 
 [Designs:](https://xd.adobe.com/view/476cda1d-710c-4afa-4aea-7032294337c1-315d/screen/e07b3654-3033-4e7d-8f07-d1e70bd4d60a/Results-page-Events-selected) (from artboard 6/50 to 19/50)
 
