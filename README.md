@@ -3,9 +3,10 @@
 ## Production Links
 - Live: [https://www.findbusinesssupport.gov.scot/](https://www.findbusinesssupport.gov.scot/)
 
-## Beta Assessment Artefacts (Research) In Progress
-- [Blue Benefit wheel](/files/SEP-Solar-system-of-SEP-Beta.pdf) 
-- [Universal business support experience](/files/BusinessSupportCustomerJourneyMapv3.pdf)
+## Beta Assessment Artefacts 
+[Beta Timeline](/webpages/SEPtimeline.html)
+
+### Research
 - Personas - Beta
   - [Content Manager](/files/persona-Al-content.PNG)
   - [Enquiry Handler](/files/persona-Jo-enquiry-handling.PNG)
@@ -13,7 +14,14 @@
 - [Needs vs Features - Beta]
 - [Needs - Detailed view - Beta]
 - [Changes made in response to research - Beta](files/SEPbetaCHANGES.pdf)
-- [Beta Timeline](/webpages/SEPtimeline.html)
+
+
+### Others artefacts
+- [Blue Benefit wheel](/files/SEP-Solar-system-of-SEP-Beta.pdf) 
+- [Universal business support experience](/files/BusinessSupportCustomerJourneyMapv3.pdf)
+- [Enquiry service blueprint](/files/SEPservice-blueprint-enquiry-handling-21-10-2019.pdf)
+- [onboarding new parter - journey](/files/SEP-NewPartnerJourney-oct.pdf)
+
 
 ## Beta prototype links
 - Master beta design 
