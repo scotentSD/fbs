@@ -20,7 +20,8 @@
 - [Blue Benefit wheel](/files/SEP-Solar-system-of-SEP-Beta.pdf) 
 - [Universal business support experience](/files/BusinessSupportCustomerJourneyMapv3.pdf)
 - [Enquiry service blueprint](/files/SEPservice-blueprint-enquiry-handling-21-10-2019.pdf)
-- [onboarding new parter - journey](/files/SEP-NewPartnerJourney-oct.pdf)
+- [Onboarding new partern journey](/files/SEP-NewPartnerJourney-oct.pdf)
+- [Event tags - category mapping](/files/SEP-EventsTags.pdf)
 
 
 ## Beta prototype links
