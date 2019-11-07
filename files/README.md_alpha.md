@@ -81,6 +81,23 @@ To kick start the project we did some early Discovery Research and then ran a De
 - [Service Blueprint](/files/SEPblueprint.pdf)
 - [Storymap: Features ](/files/SEPfeatures.pdf)
 
+## Customer Research
+###(Being deprecated in favour of timelines with research links)
+- [BETA - Sep 2019 Enquiriy Form Testing](/files/SEP_EnquiryFormTestingSept2019_V5b.pptx)  
+[Usability Testing 2018](/files/SEPtest.png)
+- [March  27th 2019](/files/testrounds/sep27mar_V2.pdf)
+- [27 March 2019 Domain survey results via WUD](https://www.surveymonkey.com/results/SM-XKLQTVVNV/)
+
+## Prototypes
+- [Shared Entry Point v1](https://xd.adobe.com/view/a58d8f43-5637-4507-6651-10c61d93b8d7-d3bc/?fullscreen)
+- [Usability Testing 2,3,4](/files/SEPtest2.png)
+- [Shared Entry Point v2-non functional](https://xd.adobe.com/view/11ddee6c-4798-41a8-451c-47dc1452eaf7-67ec/)
+- [Shared Entry Point V1.1](https://xd.adobe.com/view/8bef5999-e66a-4c8d-5007-02773134ba2f-fdde/?fullscreen)
+
+## Testing
+- [Accessibility fix list Sprint 6 May 2019](/webpages/a11y_6.md)
+- [Accessibility fix list Sprint 7 June 2019](/webpages/a11y_7.md)
+
 ## Resources
 - [Objectives and key results OKR's](/files/SEPOKR.pdf)
 - [OKR's. What are they?](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
