@@ -243,8 +243,18 @@ H3 {
 }
 
 /* for consistency with the rest: */
-/* #timeline .demo-card .body a a:hover a:active {
+ #timeline .demo-card .body a {
     color: #0D5ec0;
     text-decoration: none;
     cursor: pointer;
-} */
+} 
+#timeline .demo-card .body a:hover {
+  color: #0D5ec0;
+  text-decoration: none;
+  cursor: pointer;
+} 
+#timeline .demo-card .body a:active  {
+  color: #0D5ec0;
+  text-decoration: none;
+  cursor: pointer;
+} 
