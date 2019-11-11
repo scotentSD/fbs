@@ -76,7 +76,7 @@ strong {
   top: 0;
   bottom: 0;
   left: 50%;
-  border-left: 1px solid rgba(191, 191, 191, 0.4);
+  /* this is making a central grey line which we don't want border-left: 1px solid rgba(191, 191, 191, 0.4); */
 }
 
 #timeline .demo-card {
@@ -84,7 +84,7 @@ strong {
   display: block;
   margin: 10px auto 20px;
   max-width: 94%;
-  z-index: 2;
+ /* not needed as far as I know  z-index: 2;   */
 }
 @media (min-width: 480px) {
   #timeline .demo-card {
@@ -92,11 +92,11 @@ strong {
     box-shadow: 0px 1px 22px 4px rgba(0, 0, 0, 0.07);
   }
 }
-@media (min-width: 720px) {
+/* doesn't add anything compare to the code above @media (min-width: 720px) {
   #timeline .demo-card {
     max-width: 80%;
   }
-}
+} */
 
 #timeline .demo-card .head {
   position: relative;
@@ -117,12 +117,12 @@ strong {
 }
 #timeline .demo-card .head h2 {
   text-transform: uppercase;
-  font-size: 200% ; /* was 1.3rem; this is for mobile */
+  font-size: 140% ; /* was 1.3rem; this is for mobile */
   font-weight: inherit;
   letter-spacing: 2px;
   margin: 0;
   padding-bottom: 6px;
-  line-height: 1rem;
+  line-height: 1.4rem;  /* was 1rem; */
 }
 @media (min-width: 480px) {
   #timeline .demo-card .head h2 {
@@ -132,7 +132,7 @@ strong {
 }
 #timeline .demo-card .head h2 span {
   display: block;
-  font-size: 125% ; /* was 0.6rem; this is for mobile */
+  font-size: 1rem; /* was 0.6rem; this is for mobile */
   margin: 0;
 }
 @media (min-width: 480px) {
@@ -185,10 +185,10 @@ strong {
   border-color: #ce43eb;
 }
 #timeline .demo-card--step4 { /* blue online research */
-  background-color: #4d92eb;
+  background-color: #0D5ec0; /* this was #4d92eb;  and flagged for poor contrast - now is the blue of the saltire */
 }
 #timeline .demo-card--step4 .head::after {
-  border-color: #4d92eb;
+  border-color: #0D5ec0;
 }
 #timeline .demo-card--step5 { /* brown for partners */
   background-color: #935300;
@@ -202,7 +202,7 @@ margin-left: 0.5em;
 }
 
 .issue {
-    color: red;
+    color: #d4351c;  /* was red and being flagged for poor contrast with wave plugin - the new value is the GDS error red */
     font-weight: bold;
 }
 
@@ -219,7 +219,6 @@ H3 {
     border: 1px solid #000; 
     padding: 10px; 
     max-width: 94%;   /*  this is for mobile - same as demo-card */
-    z-index: 2;
 }
 
 @media (min-width: 480px) {  /*  for tablets */
@@ -243,3 +242,19 @@ H3 {
     margin: 2px 0;
 }
 
+/* for consistency with the rest: */
+ #timeline .demo-card .body a {
+    color: #0D5ec0;
+    text-decoration: none;
+    cursor: pointer;
+} 
+#timeline .demo-card .body a:hover {
+  color: #0D5ec0;
+  text-decoration: none;
+  cursor: pointer;
+} 
+#timeline .demo-card .body a:active  {
+  color: #0D5ec0;
+  text-decoration: none;
+  cursor: pointer;
+} 
