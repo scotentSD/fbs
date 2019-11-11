@@ -1,5 +1,5 @@
 
-
+<link rel="stylesheet" href="https://scotentsd.github.io/resources/timeline.css?ver=14">
 <section id="timeline">
 <h3>TEST PAGE Beta Timeline TEST PAGE</h3>
 <div class="colour_key">
