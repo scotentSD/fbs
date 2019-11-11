@@ -8,7 +8,6 @@ display_date: 18th Apr 2019  # Date to show on the page
 ---
 
 **SEP Beta phase started on 18th of April 2019**
-- zzz
 
 
 
