@@ -21,7 +21,7 @@ display_date: 12th Nov 2019
 
 **What we discovered about the Event Links**
 - People preferred the text {% include yellowA.html %}"This link opens a different website in a new tab"{% include yellowB.html %} over "This link opens in a new tab"
-- People prefer the text ABOVE the link button (they say it flows better)
+- People {% include yellowA.html %}prefer the text ABOVE the link button{% include yellowB.html %} (they say it flows better)
 - The shorter text prototype had no whitespace in between it and the text above which may have reduced it's popularity
 - Quote "The text above is clearer to understand"
 - Quote "The text above the button tells you what it is going to do before it does"
