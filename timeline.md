@@ -1,5 +1,6 @@
 
 <link rel="stylesheet" href="https://scotentsd.github.io/resources/timeline.css?ver=14">
+<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 <section id="timeline">
 <h3>TEST PAGE Beta Timeline TEST PAGE</h3>
 <div class="colour_key">
@@ -13,7 +14,7 @@
 
 <ul class="timeline_ul">
   {% for post in site.posts reversed %}
-      <div class="timeline_card">
+      <li class="timeline_card">
         <div class="timeline_head {{post.type}}">
           <div class="date_{{post.type}}" > {{ post.display_date }} </div>
           <!-- <br>  -->
@@ -23,8 +24,7 @@
           {{ post.excerpt }}
         </div>
         <!-- <span class="initials">{{ post.initials }}</span> -->
-
-      </div>
+     </li>
   {% endfor %}
 </ul>
 
