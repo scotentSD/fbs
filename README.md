@@ -12,7 +12,8 @@
   - [Enquiry Handler](/files/persona-Jo-enquiry-handling.PNG)
 - [Personas - Customers](/files/SEPpersonas3.pdf)
 - [Persona Spectrum - Customers](/files/SEPspectrum.pdf)
-- [Needs vs Features - Beta]
+- [Needs vs Features: Customers - Beta](/files/SEPneedsFEATURES.pdf)
+- [Needs vs Features: Parteners: Enquries - Beta](/files/SEP D1 - Partner Needs Enquiries.pdf)
 - [Needs - Detailed view - Beta]
 - [Changes made in response to research - Beta](files/SEPchanges_Beta_V3.pdf)
 
@@ -36,7 +37,7 @@
 - [Single address field prototype](https://dlrfe2.axshare.com)
 - [Trading/non-trading designs](https://xd.adobe.com/view/476cda1d-710c-4afa-4aea-7032294337c1-315d/screen/e28f8c21-af80-4eec-b1f9-539a987b1a05/Contact-us-trading-load-state-) (from artboard 32/50 to 40/50)
 - [Trading/non-trading prototype](https://ycq5at.axshare.com)
-- **No results designs** 
+- **No results designs**
 - [No result 1](https://xd.adobe.com/view/476cda1d-710c-4afa-4aea-7032294337c1-315d/screen/eed98906-d37c-4a60-ba73-60a619f13c5f/Results-page-no-support-options-message)
 - [No result 2](https://xd.adobe.com/view/476cda1d-710c-4afa-4aea-7032294337c1-315d/screen/15533614-85cd-4b0d-8f4a-ae1676b5b67e/Results-page-mobile-1)
 - **Events**
