@@ -13,9 +13,11 @@
 - [Personas - Customers](/files/SEPpersonas3.pdf)
 - [Persona Spectrum - Customers](/files/SEPspectrum.pdf)
 
+
 - [Needs vs Features: Customers - Beta](/files/SEPneedsFEATURES.pdf)
 - [Needs vs Features: Partners: Enquries - Beta](/files/SEP D1 - Partner Needs Enquiries.pdf)
 - [Needs - Detailed view - Beta]
+
 
 - [Changes made in response to research - Beta](files/SEPchanges_Beta_V3.pdf)
 
