@@ -21,4 +21,4 @@ display_date: 6th, 7th & 22nd August 2019
 The numbers change between Support & Events. Neither of these numbers matched with the number on the home page (because that is the sum of both of these). This confused people
 
 **Documents**
-[SEP Events Testing Results (pdf)](../files/SEP_2019_Aug_22_Events_testing.pdf)
+- [SEP Events Testing Results (pdf)](../files/SEP_2019_Aug_22_Events_testing.pdf)
