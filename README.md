@@ -12,8 +12,9 @@
   - [Enquiry Handler](/files/persona-Jo-enquiry-handling.PNG)
 - [Personas - Customers](/files/SEPpersonas3.pdf)
 - [Persona Spectrum - Customers](/files/SEPspectrum.pdf)
-- Needs
+- Customer Needs
   - [Customer Needs vs Features: Customers - Beta](/files/SEPneedsFEATURES.pdf)
+- Partner & Staff Needs  
   - [Partners Needs: Enquries - Beta](/files/SEP D1 - Partner Needs Enquiries.pdf)
   - [Needs - Detailed view - Beta]
 - [Changes made in response to research - Beta](files/SEPchanges_Beta_V3.pdf)
