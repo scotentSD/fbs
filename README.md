@@ -15,8 +15,8 @@
 - Customer Needs
   - [Customer Needs vs Features: Customers - Beta](/files/SEPneedsFEATURES.pdf)
 - Partner & Staff Needs  
-  - [Partners Needs: Enquries - Beta](/files/SEP D1 - Partner Needs Enquiries.pdf)
-  - [Needs - Detailed view - Beta]
+  - [Partners Needs: Enquries - Beta](/files/SEP_Beta_Partner_Needs_Enquiries.pdf)
+  - [Needs - Detailed view - Beta](/files/SEP_Beta_Enquiry_handling_Features.pdf)
 - [Changes made in response to research - Beta](files/SEPchanges_Beta_V3.pdf)
 
 
