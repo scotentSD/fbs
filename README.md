@@ -20,6 +20,7 @@
   - [Enquiries: Beta Partner Features](/files/SEP_Enquiries_Beta_Features_Detailed.pdf)
 - [Changes made in response to research - Beta](files/SEPchanges_Beta_V3.pdf)
 
+
 ### Others artefacts
 - [Blue Benefit wheel](/files/SEP-Solar-system-of-SEP-Beta.pdf)
 - [Universal business support experience](/files/BusinessSupportCustomerJourneyMapv3.pdf)
