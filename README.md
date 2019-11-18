@@ -10,7 +10,7 @@
 - Personas - Staff
   - [Content Manager](/files/persona-Al-content.PNG)
   - [Enquiry Handler](/files/persona-Jo-enquiry-handling.PNG)
-- [Personas - Customers](/files/SEPpersonas3.pdf)
+- [Personas - Customers](/files/PersonasNov2019.pdf)
 - [Persona Spectrum - Customers](/files/SEPspectrum.pdf)
 - Customer Needs
   - [Customer Needs vs Features: Customers - Beta](/files/SEPneedsFEATURES.pdf)
