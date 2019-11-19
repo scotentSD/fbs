@@ -22,7 +22,7 @@
 - [Research Session Permissions - Beta](files/Research_Permissions_v2.pdf)
 - [Ethics Checklist Template - Beta](files/Research_Ethics_Checklist_and_Guidance.pdf)
 
-### Others artefacts
+### Other artefacts
 - [Blue Benefit wheel](/files/SEP-Solar-system-of-SEP-Beta.pdf)
 - [Tube map for customer journeys via different channels](/files/SEPtubeMap-channels7.pdf)
 - [Universal business support experience](/files/BusinessSupportCustomerJourneyMapv3.pdf)
