@@ -10,7 +10,7 @@
 - Personas - Staff
   - [Content Manager](/files/persona-Al-content.PNG)
   - [Enquiry Handler](/files/persona-Jo-enquiry-handling.PNG)
-- [Personas - Customers](/files/SEPpersonas3.pdf)
+- [Personas - Customers](/files/PersonasNov2019.pdf)
 - [Persona Spectrum - Customers](/files/SEPspectrum.pdf)
 - Customer Needs
   - [Customer Needs vs Features: Customers - Beta](/files/SEPneedsFEATURES.pdf)
@@ -22,6 +22,7 @@
 
 ### Others artefacts
 - [Blue Benefit wheel](/files/SEP-Solar-system-of-SEP-Beta.pdf)
+- [Tube map for customer journeys via different channels](/files/SEPtubeMap-channels7.pdf)
 - [Universal business support experience](/files/BusinessSupportCustomerJourneyMapv3.pdf)
 - [Enquiry service blueprint](/files/SEPservice-blueprint-enquiry-handling-21-10-2019.pdf)
 - [Onboarding new partner journey](/files/SEP-NewPartnerJourney-oct.pdf)
