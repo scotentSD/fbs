@@ -19,8 +19,8 @@
   - [Enquiries: Beta Partner Features-Summary](/files/SEP_Beta_Enquiry_handling_Features.pdf)
   - [Enquiries: Beta Partner Features-Detailed Storymap](/files/SEP_Enquiries_Beta_Features_Detailed.pdf)
 - [Changes made in response to research - Beta](files/SEPchanges_Beta_V3.pdf)
-- [Research Session Permissions - Beta](files/Research_Permissions_v2.docx)
-- [Ethics Checklist Template - Beta](files/Research_Ethics_Checklist_and_Guidance.docx)
+- [Research Session Permissions - Beta](files/Research_Permissions_v2.pdf)
+- [Ethics Checklist Template - Beta](files/Research_Ethics_Checklist_and_Guidance.pdf)
 
 ### Others artefacts
 - [Blue Benefit wheel](/files/SEP-Solar-system-of-SEP-Beta.pdf)
