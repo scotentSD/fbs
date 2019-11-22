@@ -21,7 +21,7 @@
 - [Changes made in response to research - Beta](files/SEPchanges_Beta_V3.pdf)
 - [Research Session Permissions - Beta](files/Research_Permissions_v2.pdf)
 - [Ethics Checklist Template - Beta](files/Research_Ethics_Checklist_and_Guidance.pdf)
-- [Ethics Plan](files/SEP_Ethics_Plan.pdf)
+- [Ethics Plan](files/SEP_Ethics_Plan.pdf) - (draft)
 
 ### Other artefacts
 - [Blue Benefit wheel](/files/SEP-Solar-system-of-SEP-Beta.pdf)
