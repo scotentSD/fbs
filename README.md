@@ -29,7 +29,6 @@
 - [Onboarding new partner journey](/files/SEP-NewPartnerJourney-oct.pdf)
 - [Event tags - category mapping](/files/SEP-EventsTags.pdf)
 
-
 ## Beta prototype links
 - **Master beta design**
 - [https://xd.adobe.com/view/476cda1d-710c-4afa-4aea-7032294337c1-315d/grid](https://xd.adobe.com/view/476cda1d-710c-4afa-4aea-7032294337c1-315d/grid)
