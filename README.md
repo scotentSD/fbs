@@ -1,5 +1,3 @@
-# Single Entry Point (SEP) V2
-
 ## Production Links
 - Live: [https://www.findbusinesssupport.gov.scot/](https://www.findbusinesssupport.gov.scot/)
 
