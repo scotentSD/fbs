@@ -3,7 +3,7 @@
 
 ## Beta Assessment Artefacts
 [Beta Timeline](timeline/)
-
+  
 ### Research
 - Personas - Staff
   - [Content Manager](/files/persona-Al-content.PNG)
