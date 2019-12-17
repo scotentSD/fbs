@@ -2,7 +2,7 @@
 - Live: [https://www.findbusinesssupport.gov.scot/](https://www.findbusinesssupport.gov.scot/)
 
 ## Beta Assessment Artefacts
-[Beta Timeline](/webpages/SEPtimeline.html)
+[Beta Timeline](/timeline.html)
 
 ### Research
 - Personas - Staff
