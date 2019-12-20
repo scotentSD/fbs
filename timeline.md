@@ -16,7 +16,9 @@
   {% for post in site.posts reversed %}
       <li class="timeline_card">
         <div class="timeline_head {{post.type}}">
-          <div class="date_{{post.type}}" > {{ post.display_date }} </div>
+          <a href="{{site.url}}/{{post.url}}">
+            <div class="date_{{post.type}}" > {{ post.display_date }} </div>
+          </a>
           <!-- <br>  -->
           <div class="type_{{post.type}}" > </div>  
         </div>
