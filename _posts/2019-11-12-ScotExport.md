@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test Blog entry V8
+title: Scot Export event Testing 
 type: online
 phase: beta
 initials: mk
