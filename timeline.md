@@ -30,8 +30,4 @@
   {% endfor %}
 </ul>
 
-
-
-
-
 </section>
