@@ -1,5 +1,5 @@
 ## Production Links
-- Live: [https://www.findbusinesssupport.gov.scot/](https://www.findbusinesssupport.gov.scot/)
+- Live: <a href="https://findbusinesssupport.gov.scot/" rel="nofollow">https://findbusinesssupport.gov.scot/</a>
 
 ## Beta Assessment Artefacts
 [Beta Timeline](timeline/)
