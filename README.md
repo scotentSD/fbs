@@ -1,3 +1,12 @@
+```
+Provide a single digital access point for business support
+and develop and deliver a single, authenticated business I.D
+so that we can work more effectively across partners to meet
+the needs of businesses 'in the round' and so that businesses
+are no longer required to keep providing the same information
+to different partners.
+```
+
 ## Production Links
 - Live: <a href="https://findbusinesssupport.gov.scot/" rel="nofollow">https://findbusinesssupport.gov.scot/</a>
 
@@ -82,12 +91,5 @@ To kick start the project we did some early Discovery Research and then ran a De
 - [Enterprise and Skills Review - Phase 1 - Call for Evidence](https://www.gov.scot/publications/enterprise-skills-review-report-phase-1/pages/1/)
 - [Enterprise & Skills Review - Phase 2 - Report](https://www.gov.scot/publications/enterprise-skills-review-report-phase-2/)
 
-
-```
-Provide a single digital access point for business support
-and develop and deliver a single, authenticated business I.D
-so that we can work more effectively across partners to meet
-the needs of businesses 'in the round' and so that businesses
-are no longer required to keep providing the same information
-to different partners.
-```
+<br>
+<div>Last updated: {{site.time | date_to_string}}</div>
