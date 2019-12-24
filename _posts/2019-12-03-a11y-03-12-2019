@@ -1,0 +1,23 @@
+---
+layout: post                # Don't change this from "post"
+title: User Vision testing        # Title to show on the page
+type: a11y                  # Chose from: lab, online, a11y, other, partner
+phase: beta                 # chose from discovery, alpha, beta, live
+initials: sk                # initials of person who did/uploaded the research
+display_date: 3rd and 4th Dec 2019 # Date to show on the page
+return_url: "https://scotentsd.github.io/sep/timeline/" # leave like this         
+type_of_event:              Accessibility
+---
+
+**Audience**
+- 6 participants with various range of access needs: Asperger, Dyslexia, visual stress, registered blind, ADHD. NVDA and JAWS users.
+
+**Focus**
+- will be added
+
+**Observations**
+- will be added
+
+**Documents**
+- report from User Vision to come in January - will be added
+- sense making session done on the 11/12/19 with the team, including QA and DEV - outcome to be added soon
