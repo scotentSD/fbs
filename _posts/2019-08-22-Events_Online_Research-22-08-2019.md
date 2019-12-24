@@ -1,10 +1,12 @@
 ---
 layout: post
-title: SEP Events research
+title: SEP Events
 type: online
 phase: beta
 initials: mk
 display_date: 6th, 7th & 22nd August 2019
+return_url: "https://scotentsd.github.io/sep/timeline/"         
+type_of_event:   Online research and testing
 ---
 
 **AUDIENCE**
