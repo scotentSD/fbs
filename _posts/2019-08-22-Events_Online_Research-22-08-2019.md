@@ -9,7 +9,7 @@ return_url: "https://scotentsd.github.io/sep/timeline/"
 type_of_event:   Online research and testing
 ---
 
-**AUDIENCE**
+**Audience**
 - 45 from Userzoom Onlime Panel
 
 **Focus**
