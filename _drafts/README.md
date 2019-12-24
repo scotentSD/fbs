@@ -7,7 +7,7 @@
 3. select all : ctrl+A , and copy Ctrl+C
 4. go to the **_posts** folder and **create a new file** there
 5. this file should be named with the same structure as the template, but also adding the reverse date after the name: **yyyy-mm-dd-name-dd-mm-yyyy.md** (don't forget the .md!) The first reverse date will be driving the post order in the timeline, the second date after the date, make the name unique and will be used in the url to the post when cliked on.
-*Create the name of the file: type the name of the file in the rectangle above the edit area it should say sep/_posts/ then the rectangle input box*
+*To create the name of the file: type the name of the file in the rectangle above the edit area it should say sep/_posts/ then the rectangle input box*
 6. paste the content of the template ctrl+V
 7. make your changes
 8. save by commiting your file, enter your initials, and a short commit message
