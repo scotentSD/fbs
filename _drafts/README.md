@@ -1,8 +1,9 @@
 # Help
 
+
 ## How to create a new post for the timeline
 
-1. open the file 2019-01-01-template.md
+1. open the file 2019-01-01-template.md in the draft or templates folder
 2. edit
 3. select all : ctrl+A , and copy Ctrl+C
 4. go to the **_posts** folder and **create a new file** there
@@ -14,7 +15,7 @@
 
 ## How to use the template
 
-1. do not edit the layout, it should be **layout:post** 
+1. do not edit the layout, it should be **layout: post** 
 2. edit the **title** to what you want it to be
 3. **type** will change the colour background of your title: pick one between: **lab, online, a11y, other, partner**
 4. edit the **phase**: discovery, alpha, beta, live
@@ -23,7 +24,12 @@
 7. **optional** add a url to go back to the timeline page using "" around it or leave blank if not needed
 8. **optional** add the **type_of_event** if you want it displayed added to the heading when the post is clicked on (Lab Testing, Partner co-creation and co-design, Accessibility, Online research and testing, Events, F2F and testing) or leave empty if not needed
 9. fill in the text of your post
-10. any files you want to link to should be uploaded before in the folder **files**
+10. any files you want to link to should be uploaded before in the folder **files**. 
+11. to link a file, **`[name of your file to display (type of file)](../files/name-of-your-file.extenstion)`**
+
+Remember to mention what type of file it is in the text link. For example: 
+
+`[Partner Prioritisation Spreadsheet (Excel file)](../files/SEP-Partner-Prioritisation-020819-V1.xlsx)`
 
 ## Help with the mark up
 [cheatsheet for markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
