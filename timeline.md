@@ -1,9 +1,9 @@
 ---
-title: BETA research timeline
+title: BETA timeline
 ---
 
 <section id="timeline">
-  <h1>BETA research timeline</h1>
+  <h1>BETA timeline</h1>
   {% include key.html %}
 
   <ul class="timeline_ul">
