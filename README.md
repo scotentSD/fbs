@@ -5,7 +5,7 @@ _Provide a single digital access point for business support and develop and deli
 
 
 ## Production Links
-- Live: <a href="https://findbusinesssupport.gov.scot/" rel="nofollow">https://findbusinesssupport.gov.scot/</a>
+- Live: <a href="https://findbusinesssupport.gov.scot/">https://findbusinesssupport.gov.scot/</a>
 
 ## Beta Assessment Artefacts
 [Beta Timeline](timeline/)
