@@ -3,7 +3,7 @@
   
   <head>
     {% include meta.html %}                                                                      
-    <title>{% if page.title  %}{{page.title}} | {% endif %}{{ site.title }}</title>
+    <title>{{ site.title }} {% if page.title  %} | {{page.title}}{% endif %}</title>
     <link rel="stylesheet" type="text/css" media="screen" href="{{ 'https://scotentsd.github.io/assets/css/style.css?v=' | append: site.github.build_revision}}">   
     <link rel="icon" href="https://scotentsd.github.io/images/favicon.ico">
     <link rel="stylesheet" href="{{ 'https://scotentsd.github.io/resources/timeline.css?v=' | append: site.github.build_revision}}" >
