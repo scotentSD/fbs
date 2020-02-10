@@ -17,6 +17,6 @@ We've had analytics in place since day 1.
 
 So here's the numbers.
 
-<iframe width="600" height="338" src="https://datastudio.google.com/embed/reporting/6cabf104-a448-41c8-8f15-548a61cf48d1/page/TTHEB" frameborder="0" style="border:0" allowfullscreen></iframe>
+<div><iframe width="600" height="338" src="https://datastudio.google.com/embed/reporting/6cabf104-a448-41c8-8f15-548a61cf48d1/page/TTHEB" frameborder="0" style="border:0" allowfullscreen></iframe></div>
 
 [View the full report](https://datastudio.google.com/reporting/6cabf104-a448-41c8-8f15-548a61cf48d1)
