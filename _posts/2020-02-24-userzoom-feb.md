@@ -49,3 +49,10 @@ To test functionality around
 - Some dislikes included the layout, lack of sub-categories, predictive text not being available and irrelevant or no results for some search keyword(s)
 
 
+## Files ##
+[February Keyword Serch testing](https://scotentsd.github.io/sep/files/FBS-Keyword_search-Feb_2020.pptx)
+[February About Us testing](https://scotentsd.github.io/sep/files/SE-About_Us_Design_on_Live_site_Feb_2020.pptx)
+[February Date Range Testing](https://scotentsd.github.io/sep/files/SEP-Date_range_Feb_2020.pptx)
+[February Events Testing](https://scotentsd.github.io/sep/files/SEP-Events_waiting_list_prototyp_Feb_2020.pptx)
+[February Map Icon Testing](https://scotentsd.github.io/sep/files/SEP-Map_Icons_Feb_2020)
+
