@@ -4,7 +4,7 @@ title: Online testing of Categories, Event Map & News Update   # Title to show o
 type: online                  # Chose from: lab, online, a11y, other, partner
 phase: beta                 # chose from discovery, alpha, beta, live
 initials: am               # initials of person who did/uploaded the research
-display_date: 20th January 2020 # Date to show on the page
+display_date: January 2020 # Date to show on the page
 return_url: "https://scotentsd.github.io/sep/timeline/" # leave like this         
 type_of_event:  Online research and testing            
             # add the type of event if you want it displayed added to the heading when the post if clicked on
