@@ -28,18 +28,18 @@ To test functionality of
 ### Discovery - About Us and “Programme” category feedback (15 users) ###
 
 
-1 All 15 users would find an “about us” section helpful and majority would like to see this section on the website
-2 They felt that some introductory information about what’s on offer on this website and which organisations are involved in this would benefit them
-3 When asked about “type of support” options, majority (13 out of 15) said that they understand these options and “programmes” category made sense.
+- All 15 users would find an “about us” section helpful and majority would like to see this section on the website
+- They felt that some introductory information about what’s on offer on this website and which organisations are involved in this would benefit them
+- When asked about “type of support” options, majority (13 out of 15) said that they understand these options and “programmes” category made sense.
 
 ### Events map function (10 users) ###
 
-1 Users were easily able to locate the events and the map feature; however, some were expecting an events tab / button on the homepage.
-2 Majority (8 out of 10) were able to find the specific Glasgow event and most users found it easy to find it on the map.
-3 Specifically talking about the icons 4 out 6 found it difficult to understand what the different icons meant – users were unsure about the colours, they wanted a key / legend.
+- Users were easily able to locate the events and the map feature; however, some were expecting an events tab / button on the homepage.
+- Majority (8 out of 10) were able to find the specific Glasgow event and most users found it easy to find it on the map.
+- Specifically talking about the icons 4 out 6 found it difficult to understand what the different icons meant – users were unsure about the colours, they wanted a key / legend.
 
 ### News and update prototype (10 users) ###
-1 All users found the “news and updates” section helpful and majority 
+- All users found the “news and updates” section helpful and majority would like to see this section on the website
 
 ## Files ##
 - [About Us](https://scotentsd.github.io/sep/files/SEP-About_Us-Programmes_Jan_2020.pptx)
