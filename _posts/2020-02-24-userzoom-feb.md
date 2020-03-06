@@ -55,6 +55,3 @@ To test functionality around
 - [February Date Range Testing](https://scotentsd.github.io/sep/files/SEP-Date_range_Feb_2020.pptx)
 - [February Events Testing](https://scotentsd.github.io/sep/files/SEP-Events_waiting_list_prototyp_Feb_2020.pptx)
 - [February Map Icon Testing](https://scotentsd.github.io/sep/files/SEP-Map_Icons_Feb_2020)
-
-
-
