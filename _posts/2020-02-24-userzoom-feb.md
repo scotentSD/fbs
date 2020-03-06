@@ -49,5 +49,3 @@ To test functionality around
 - Some dislikes included the layout, lack of sub-categories, predictive text not being available and irrelevant or no results for some search keyword(s)
 
 
-
-
