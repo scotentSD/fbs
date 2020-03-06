@@ -41,4 +41,9 @@ To test functionality of
 ### News and update prototype (10 users) ###
 1 All users found the “news and updates” section helpful and majority 
 
+## Files ##
+- [About Us](https://scotentsd.github.io/sep/files/SEP-About_Us-Programmes_Jan_2020.pptx)
+- [Events Map](https://scotentsd.github.io/sep/files/SEP-Events_Map_Jan_2020.pptx)
+- [News & Updates](https://scotentsd.github.io/sep/files/SEP-News_and_updates_Jan_2020.pptx)
+
 
