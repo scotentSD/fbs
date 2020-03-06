@@ -42,4 +42,3 @@ To test functionality of
 1 All users found the “news and updates” section helpful and majority 
 
 
-[Full crib sheet for this test round](https://scotentsd.github.io/sep/files/SEP_UR_Analysis_Crib_Sheet_Jan_2020.pdf)
