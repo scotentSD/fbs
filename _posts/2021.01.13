@@ -1,0 +1,35 @@
+---
+layout: post                # Don't change this from "post"
+title: Online testing (January) of opinions about upcoming funding  # Title to show on the page
+type: online                  # Chose from: lab, online, a11y, other, partner
+phase: live                 # chose from discovery, alpha, beta, live
+initials: kd               # initials of person who did/uploaded the research
+display_date: January 2021 # Date to show on the page
+return_url: "https://scotentsd.github.io/sep/timeline/" # leave like this         
+type_of_event:  Online research and testing            
+            # add the type of event if you want it displayed added to the heading when the post if clicked on
+            # Lab Testing, Partner co-creation and co-design, Accessibility, Online research and testing, Events, F2F and testing
+            # or leave empty if not needed
+---
+
+## Audience
+-Scottish business owners and senion business leaders 
+
+## Focus
+To understand how businesses feel about seeing information about upcoming funds (10 people)
+
+## Summary of insights
+### Upcoming funds
+- 100% of users said that they would like to see information about coronavirus funding that is coming soon but isn't open for applications yet
+- Most users would expect to see information about upcoming coronavirus funding on the coronavirus advice page, and some also mentioned the homepage
+
+### Where users would look for coronavirus funding
+- 40% of users would go to the coronavirus support page
+- 30% would go to the coronavirus browse section
+- 10% said they would start with Google by searching for terms like 'funding scotland small business' or 'coronavirus scotland business support'
+- 10% said they would use site search
+- 10% sai they would look on the website for 'digital boost for my business'
+
+
+## Files
+- [FBS upcoming funds user testing)](FBS user testing 13 Jan.pptx)
