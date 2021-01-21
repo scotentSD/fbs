@@ -15,8 +15,8 @@ type_of_event:  Lab Testing
 One-to-one testing via Teams
 
 - Three business owners, all male
--- One in the creative sector
--- Two in food and drink
+- One in the creative sector
+- Two in food and drink
 
 # Focus
 - What do users think of the layout and appearance of this page? https://findbusinesssupport.gov.scot/coronavirus-covid-19-advice-c
