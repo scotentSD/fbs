@@ -11,44 +11,44 @@ type_of_event:  Lab Testing
             # Lab Testing, Partner co-creation and co-design, Accessibility, Online research and testing, Events, F2F and testing
             # or leave empty if not needed
 ---
-# Audience
+## Audience
 One-to-one testing via Teams
 
 - Three business owners, all male
 - One in the creative sector
 - Two in food and drink
 
-# Focus
+## Focus
 - What do users think of the layout and appearance of this page? https://findbusinesssupport.gov.scot/coronavirus-covid-19-advice-c
 - Can they find relevant funding?
 - Do they want to see upcoming funds on the site?
 - Do they want to see closed funds on the site?
 
-# Summary of insights
+## Summary of insights
 
-## What worked:
+### What worked:
 - Users like the clean, uncluttered layout
 - The Funding and Guidance buttons were used by all
 - Last updated dates on service descriptions were appreciated
 - Highlighting funds for business rates payers/self-employed -"This splits it quite clearly"
 
-## What didn't work
+### What didn't work
 - The cookie banner covered the fold, so not all users saw that there was more content below​
 - The content below the fold had no headings and was hard to scan
 - Technical issue with the browse support search bar for the user on a Mac
 
-## Can they find relevant funding?
+### Can they find relevant funding?
 - All users eventually went to the Funding button on the advice page, but two went to read guidance first
 - One user used the sector filter, one used search and the other just scrolled
 
-## Do they want to see upcoming funds on the site?
+### Do they want to see upcoming funds on the site?
 - Two said yes, one was more focused on closed funds
 - Time to prepare for an upcoming fund application was important
 
-## Do they want to see closed funds on the site?
+### Do they want to see closed funds on the site?
 - Mixed feedback - one said no, another said yes, another said if they were there, they should be clearly highlighted
 
-# Recommendations
+## Recommendations
 - Keep the layout simple and uncluttered
 - Retain Funding and Guidance buttons at the top
 - List upcoming funding and grants – more research may be needed on the best way to do this
