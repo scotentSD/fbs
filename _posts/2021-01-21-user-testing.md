@@ -19,7 +19,7 @@ One-to-one testing via Teams
 - Two in food and drink
 
 ## Focus
-- What do users think of the layout and appearance of this page? [https://findbusinesssupport.gov.scot/coronavirus-covid-19-advice-c](https://findbusinesssupport.gov.scot/coronavirus-covid-19-advice-c) ([see a screenshot of that page](/sep/files/httpsfindbusinesssupport.gov.scotcoronavirus-covid-19-advice-c.jpg))
+- What do users think of the layout and appearance of this page? [https://findbusinesssupport.gov.scot/coronavirus-covid-19-advice-c](https://findbusinesssupport.gov.scot/coronavirus-covid-19-advice-c) (You can [see a screenshot of that page](/sep/files/httpsfindbusinesssupport.gov.scotcoronavirus-covid-19-advice-c.jpg) when tested)
 - Can they find relevant funding?
 - Do they want to see upcoming funds on the site?
 - Do they want to see closed funds on the site?
