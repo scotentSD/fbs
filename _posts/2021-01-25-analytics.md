@@ -47,7 +47,7 @@ It’s too early to start looking at trends since the new changes have only been
 The lower percentage could mean visitors are more likely to stay on FBS.
 Warning: The fact that it's a Sunday compared to Monday might add other factors than just the redesign.
 
-## Check the data for yourself
+## Check the data yourself
 **Reminder**: You can check the [Data Studio dashboard to see the analytics](https://datastudio.google.com/reporting/a3482dc0-d465-4696-98ac-62616cf8316b)
 
 ## Visual of the changes before/after
