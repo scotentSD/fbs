@@ -51,5 +51,5 @@ Warning: The fact that it's a Sunday compared to Monday might add other factors 
 **Reminder**: You can check the [Data Studio dashboard to see the analytics](https://datastudio.google.com/reporting/a3482dc0-d465-4696-98ac-62616cf8316b)
 
 ## Visual of the changes before/after
-[See the data above on the pages](/sep-files/FBS-Changes-on-Covid-page-January-25.pdf) (PDF)
+[See the data above on the pages themselves](/sep/files/FBS-Changes-on-Covid-page-January-25.pdf) (PDF)
 
