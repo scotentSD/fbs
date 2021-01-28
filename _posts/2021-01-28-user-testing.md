@@ -53,7 +53,7 @@ One-to-one testing via Teams
  - All said it would be useful to distinguish between grants and loans
  
 ### What would you do if you came to the site and couldn't find any funding?
- -One would contact their MP
+- One would contact their MP
 - One would just try to earn money through their business
 - One would go to the contact us page and phone – they wouldn't use the form because it doesn't tell you how long it will take for someone to respond
 
