@@ -1,6 +1,6 @@
 ---
 layout: post                # Don't change this from "post"
-title: One-to-one user testing - businesses and partners  # Title to show on the page
+title: One-to-one user testing 27-28 January 2021  # Title to show on the page
 type: lab                 # Chose from: lab, online, a11y, other, partner
 phase: live                 # chose from discovery, alpha, beta, live
 initials: kd               # initials of person who did/uploaded the research
@@ -52,13 +52,12 @@ One-to-one testing via Teams
 ### How would they expect to see funds categorised?
  - All said it would be useful to distinguish between grants and loans
  
- ### What would you do if you came to the site and couldn't find any funding?
+### What would you do if you came to the site and couldn't find any funding?
  -One would contact their MP
 - One would just try to earn money through their business
 - One would go to the contact us page and phone – they wouldn't use the form because it doesn't tell you how long it will take for someone to respond
 
 ### Would you want to see guidance about applying for funding?
-URL: https://findbusinesssupport.gov.scot/coronavirus-advice/quick-guide-to-business-support 
 - "It's a bit text heavy"
 - Would maybe look at the FAQs or top tips
 - It's helpful to see what is needed for funding, but they would get their accountant to help
@@ -77,4 +76,4 @@ URL: https://findbusinesssupport.gov.scot/coronavirus-advice/quick-guide-to-busi
 - Funding guide may be of limited use to businesses that are experienced in accessing grant funding or get accountants/intermediaries to do it for them
 
 ## Files
-- [FBS user testing 21/01/2021](/sep/files/FBS_testing_27-28_Jan.pdf) (PDF)
+- [FBS user testing 28/01/2021](/sep/files/FBS_testing_27-28_Jan.pdf) (PDF)
