@@ -33,11 +33,11 @@ Analytics for the previous week (Mon 25 - Sun 31/01) compared to previous design
 - Upcoming funds: 5.43%
 
 ### Bounce rate - improved!
-Cut by half (was 44% and now down to 23% last week.
+Cut by half (was 44% and now down to 23% last week).
 It means people are more likely to engage with the site than leave after landing on the advice page.
 
 ### New quick guide to coronavirus (Covid-19) business support
-Since Friday, 45% of users who come to the ‘quick guide’ leave the website there. This could mean:
+Since Friday, 45% of users who come to the [‘quick guide’](https://findbusinesssupport.gov.scot/coronavirus-advice/quick-guide-to-business-support) leave the website there. This could mean:
 - The page is not working because nearly half of users who get to it leave FBS, rather that engage with the site
 - Or these users have already found the info they were looking for and this guide has not given them new info
 
@@ -49,4 +49,9 @@ More people are cliking on it and registering which is good as it's the best way
 
 ## Check the data yourself
 **Reminder**: You can check the [Data Studio dashboard to see the analytics](https://datastudio.google.com/reporting/a3482dc0-d465-4696-98ac-62616cf8316b)
+
+## Stats on the page
+[See the page](https://findbusinesssupport.gov.scot/coronavirus-advice)
+
+![screenshot of the page with the similar stats as arrows and speech bubbles](/sep/files/FBS-Beta-re-design-stats-end-of-Jan21.jpg)
 
