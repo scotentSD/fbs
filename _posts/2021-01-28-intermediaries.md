@@ -42,4 +42,4 @@ Intermediaries testing via Teams, 6 participants
 - Phone and email preferred over live chat
 
 ## Files
-- [FBS intermediaries user testing 28/01/2021](FBS-2021-01-28-Intermediary-Testing-Covid.pdf) (PDF)
+- [FBS intermediaries user testing 28/01/2021](/sep/files/FBS-2021-01-28-Intermediary-Testing-Covid.pdf) (PDF)
