@@ -2,7 +2,6 @@
 title: Research Timeline  (v2)
 ---
 
-
 <section id="timeline">
   <h1>Research Timeline Summary</h1>
   <ul class="timeline_ul">
