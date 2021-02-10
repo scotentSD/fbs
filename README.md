@@ -8,13 +8,14 @@ _Provide a single digital access point for business support and develop and deli
 - Live: <a href="https://findbusinesssupport.gov.scot/">https://findbusinesssupport.gov.scot/</a>
 
 ## Beta Assessment Artefacts
+
 - [Research Timeline](timeline/)
 - [Research Timeline Summary](timelinelight/)
 - [Research Timeline Summary - V2 - Summary](timelinelight2/)
 - [Research Timeline Summary - V3 - Summary - Super Short](timelinelight3/)
-
   
 ### Research
+
 - Personas - Staff
   - [Content Manager](/files/persona-Al-content.PNG)
   - [Enquiry Handler](/files/persona-Jo-enquiry-handling.PNG)
@@ -32,6 +33,7 @@ _Provide a single digital access point for business support and develop and deli
 - [Ethics Plan](files/SEP_Ethics_Plan.pdf) - (draft)
 
 ### Other artefacts
+
 - [Blue Benefit wheel](/files/SEP-Solar-system-of-SEP-Beta.pdf)
 - [Tube map for customer journeys via different channels](/files/SEPtubeMap-channels7.pdf)
 - [Universal business support experience](/files/BusinessSupportCustomerJourneyMapv3.pdf)
@@ -40,6 +42,7 @@ _Provide a single digital access point for business support and develop and deli
 - [Event tags - category mapping](/files/SEP-EventsTags.pdf)
 
 ## Beta prototype links
+
 - **Master beta design**
 - [https://xd.adobe.com/view/476cda1d-710c-4afa-4aea-7032294337c1-315d/grid](https://xd.adobe.com/view/476cda1d-710c-4afa-4aea-7032294337c1-315d/grid)
 - **Admin screens**
@@ -63,7 +66,8 @@ _Provide a single digital access point for business support and develop and deli
 - [Prototype combining learnings](https://s8xaxo.axshare.com)
 - [Designs](https://xd.adobe.com/view/476cda1d-710c-4afa-4aea-7032294337c1-315d/screen/2d9cdbb5-d353-43de-a740-920912132684/Support-detail-page-showing-user-feedback-componen) (from artboard 24/50 to 31/50)
 
-## Alpha Assessment Artefacts (Research)
+## Alpha Assessment Artefacts (Research)\
+
 - [Customer Journey](/files/SingleEntryJourney.pdf)
 - [Personas](/files/SEPpersonas3.pdf)
 - [Persona Spectrum](/files/SEPspectrum.pdf)
@@ -73,6 +77,7 @@ _Provide a single digital access point for business support and develop and deli
 - [Objectives and key results OKR's](/files/SEPOKR.pdf)
 
 ## Starting the project
+
 To kick start the project we did some early Discovery Research and then ran a Design Sprint
 - [Design Sprint](/files/5day.png)
 - [Customer Journey](/files/SingleEntryJourney.pdf)
@@ -83,6 +88,7 @@ To kick start the project we did some early Discovery Research and then ran a De
 - [Storymap: Features ](/files/SEPfeatures.pdf)
 
 ## Resources
+
 - [Objectives and key results OKR's](/files/SEPOKR.pdf)
 - [OKR's. What are they?](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
 
