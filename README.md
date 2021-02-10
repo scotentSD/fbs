@@ -8,7 +8,9 @@ _Provide a single digital access point for business support and develop and deli
 - Live: <a href="https://findbusinesssupport.gov.scot/">https://findbusinesssupport.gov.scot/</a>
 
 ## Beta Assessment Artefacts
-[Beta Timeline](timeline/)
+[Research Timeline](timeline/)
+[Research Timeline Summary](timelinelight/)
+
   
 ### Research
 - Personas - Staff
