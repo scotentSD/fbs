@@ -1,5 +1,5 @@
 ---
-title: BETA timeline
+title: BETA timeline summary
 ---
 
 <section id="timeline">
