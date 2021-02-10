@@ -11,10 +11,8 @@ title: Research Timeline  (v2)
           <div>
             <a href="{{site.url}}/{{site.github.repository_name}}{{post.url}}">
               <div class="date_{{post.type}}" > {{ post.display_date }} :: {{ post.title}}</div>
-            <!-- <br>  -->
             </a>
           </div>
-          <!-- <span class="initials">{{ post.initials }}</span> -->
        </li>
     {% endfor %}
   </ul>
