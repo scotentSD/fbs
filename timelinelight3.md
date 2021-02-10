@@ -8,13 +8,10 @@ title: Research Timeline  (v2)
   <ul class="timeline_ul">
     {% for post in site.posts %}
         <li class="timeline_card">
-          <div>
             <a href="{{site.url}}/{{site.github.repository_name}}{{post.url}}">
-              {{ post.display_date }} :: {{ post.title}}
-            </a>
+              <div class="date_other" > {{ post.display_date }} :: {{ post.title}}</div>
           </div>
        </li>
     {% endfor %}
   </ul>
 </section>
-
