@@ -1,5 +1,5 @@
 ---
-title: Research Timeline  (v2)
+title: Research Timeline  (v3)
 ---
 
 <section id="timeline">
