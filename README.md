@@ -10,7 +10,8 @@ _Provide a single digital access point for business support and develop and deli
 ## Beta Assessment Artefacts
 - [Research Timeline](timeline/)
 - [Research Timeline Summary](timelinelight/)
-- [Research Timeline Summary - V2](timelinelight2/)
+- [Research Timeline Summary - V2 - Summary](timelinelight2/)
+- [Research Timeline Summary - V3 - Summary - Super Short](timelinelight3/)
 
   
 ### Research
