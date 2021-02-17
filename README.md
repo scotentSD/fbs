@@ -5,15 +5,20 @@ _Provide a single digital access point for business support and develop and deli
 
 
 ## Production Links
-- Live: <a href="https://findbusinesssupport.gov.scot/">https://findbusinesssupport.gov.scot/</a>
+- Live: <a href="https://findbusinesssupport.gov.scot/" target="_blank">https://findbusinesssupport.gov.scot/</a>
+
+## After the Beta Assessment
+
+- [Research Timeline](timeline/) - from the start of the project up to now
+- [Quick Redesign January 2021](quick-redesign-jan-2021/)
+
 
 ## Beta Assessment Artefacts
 
-- [Research Timeline](timeline/)
 - [Research Timeline Summary](timelinelight/)
 - [Research Timeline Summary - V2 - Summary](timelinelight2/)
 - [Research Timeline Summary - V3 - Summary - Super Short](timelinelight3/)
-  
+
 ### Research
 
 - Personas - Staff
@@ -66,7 +71,7 @@ _Provide a single digital access point for business support and develop and deli
 - [Prototype combining learnings](https://s8xaxo.axshare.com)
 - [Designs](https://xd.adobe.com/view/476cda1d-710c-4afa-4aea-7032294337c1-315d/screen/2d9cdbb5-d353-43de-a740-920912132684/Support-detail-page-showing-user-feedback-componen) (from artboard 24/50 to 31/50)
 
-## Alpha Assessment Artefacts (Research)\
+## Alpha Assessment Artefacts (Research)
 
 - [Customer Journey](/files/SingleEntryJourney.pdf)
 - [Personas](/files/SEPpersonas3.pdf)
