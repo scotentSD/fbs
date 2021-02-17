@@ -67,6 +67,8 @@ Understanding user behaviour and preferences to help prioritise the actions to t
 
 ## Related research posts during this redesign
 - [Online testing (January) of Coronavirus advice page layout - Online research and testing](https://scotentsd.github.io/sep/Jan/) - 20 Jan
+- [Analytics on the COVID page links - Analytics](https://scotentsd.github.io/sep/analytics-21-01/) - 21 Jan
+- [One-to-one user testing - Lab Testing](https://scotentsd.github.io/sep/user-testing-21-01/) - 21 Jan
 - [Analytics on the COVID page Monday 25 January - Analytics](https://scotentsd.github.io/sep/analytics/) - 25 Jan
 - [Intermediaries user testing 28 January 2021 - Lab Testing](https://scotentsd.github.io/sep/intermediaries/) - 28 Jan
 - [One-to-one user testing 27-28 January 2021 - Lab Testing](https://scotentsd.github.io/sep/user-testing/) - 28 Jan
