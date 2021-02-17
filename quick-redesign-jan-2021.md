@@ -24,8 +24,9 @@ title: Quick Redesign January 2021
 We received lots of feedback about the site itself from a lot of stakeholders.
 Our aim is to help more businesses identify and access the funding they need, and reduce confusion about where to go for information.
 
-## FBS is part of a wider system, which is not wokring optimally
+## FBS is part of a wider system, which is not working optimally
 ![table showing the emotion for all the actors across the creation of a new covid support fund](/files/creating-new-coronavirus-support-fund.jpg)
+
 [See the diagram as a PDF](/files/creating-new-coronavirus-support-fund.pdf)
 
 
@@ -48,18 +49,29 @@ Understanding user behaviour and preferences to help prioritise the actions to t
 
 ### See the changes on the Covid advice page visually
 ![screenshot of the page with stats as post it through all the transformation stages](/files/Quick-changes-on-Covid-page-January2021.jpg)
+
 [See as a PDF](/files/Quick-changes-on-Covid-page-January2021.pdf)
 
 ## Next steps
 
 ### FBS site
-- Ongoing engagement with users and business organisations, as well as using the analytics & insights - to inform further iterative change as and when needed.
+- Ongoing engagement with users and business organisations, as well as using the analytics & insights - to inform further iterative change as and when needed
 
 ### Wider funding landscape and environment
 
 - Work by Scottish Government is underway on simplifying and streamlining the funding landscape. FBS team can assist with user insight & analytics
 - Using existing Business Support Partnership channels, focus on the ‘end to end’ communication processes – to link announcements with partners so channels and content are aligned & ready
 - Further work needed to increase awareness of FBS and email updates, particularly amongst intermediary organisations
-- Ongoing sharing of user analytics and intelligence with public sector partners so that there is a more consistent user experience beyond FBS.
+- Ongoing sharing of user analytics and intelligence with public sector partners so that there is a more consistent user experience beyond FBS
+
+
+## Related research posts during this redesign
+- [Online testing (January) of Coronavirus advice page layout - Online research and testing](https://scotentsd.github.io/sep/Jan/) - 20 Jan
+- [Analytics on the COVID page Monday 25 January - Analytics](https://scotentsd.github.io/sep/analytics/) - 25 Jan
+- [Intermediaries user testing 28 January 2021 - Lab Testing](https://scotentsd.github.io/sep/intermediaries/) - 28 Jan
+- [One-to-one user testing 27-28 January 2021 - Lab Testing](https://scotentsd.github.io/sep/user-testing/) - 28 Jan
+- [Analytics on the COVID after quick re-design - Analytics](https://scotentsd.github.io/sep/analytics-summary/) - 1st Feb
+<br>
+<br>
 
 <div>Last updated: {{site.time | date_to_string}}</div>
