@@ -4,7 +4,7 @@ title: Operate after Brexit  # Title to show on the page
 type: lab                 # Chose from: lab, online, a11y, other, partner
 phase: live                 # chose from discovery, alpha, beta, live
 initials: kd               # initials of person who did/uploaded the research
-display_date: 2 March 2021 # Date to show on the page
+display_date: 3-4 March 2021 # Date to show on the page
 return_url: "https://scotentsd.github.io/sep/timeline/" # leave like this         
 type_of_event:  Lab Testing          
             # add the type of event if you want it displayed added to the heading when the post if clicked on
