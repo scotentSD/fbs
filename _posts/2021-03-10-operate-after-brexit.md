@@ -13,7 +13,7 @@ type_of_event:  Lab Testing
 ---
 ## Audience
 - 4 potential customers, using Video calls (Microsoft Teams)
-- 4 UserZoom un-moderated sessions
+- 4 UserZoom unmoderated sessions
 
 ## What we tested
 - The Operate after Brexit test page - https://findbusinesssupport.gov.scot/operate-after-brexit-test-page
