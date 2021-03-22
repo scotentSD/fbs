@@ -38,7 +38,7 @@ type_of_event:  Lab Testing
 - Send users directly to SE.com
 - Add a list of sectors to the 'Advice for specific sectors' section
 - Add some more context around what funding support is available to the 'Financial support' section
--Add a search bar to the top navigation
+- Add a search bar to the top navigation
 - Review the usefulness of the Brexit filter on the homepage through analytics
 
 ## Files
