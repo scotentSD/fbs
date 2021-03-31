@@ -16,7 +16,7 @@ type_of_event:  Lab Testing
 - 4 UserZoom unmoderated sessions
 
 ## What we tested
-- The Operate after Brexit test page - https://findbusinesssupport.gov.scot/operate-after-brexit-test-page
+- [The Operate after Brexit test page](https://findbusinesssupport.gov.scot/operate-after-brexit-test-page)
 
 ## Focus
 - What challenges are businesses facing around trying to operate after Brexit?
