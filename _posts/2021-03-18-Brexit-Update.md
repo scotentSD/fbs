@@ -15,7 +15,7 @@ type_of_event:  Lab Testing
 - 4 potential customers, using Video calls (Microsoft Teams)
 
 ## What we tested
-- [The Operate after Brexit test page](https://findbusinesssupport.gov.scot/operate-after-brexit)
+- [The Operate after Brexit page](https://findbusinesssupport.gov.scot/operate-after-brexit)
 
 ## Focus
 - What challenges are businesses facing around trying to operate after Brexit?
