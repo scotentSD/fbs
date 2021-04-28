@@ -1,0 +1,32 @@
+---
+layout: post                # Don't change this from "post"
+title: Changes on the Covid page  # Title to show on the page
+type: other                # Chose from: lab, online, a11y, other, partner
+phase: live                 # chose from discovery, alpha, beta, live
+initials: sk               # initials of person who did/uploaded the research
+display_date: 28 April 2021 # Date to show on the page
+return_url: "https://scotentsd.github.io/sep/timeline/" # leave like this         
+type_of_event:  Analytics         
+            # add the type of event if you want it displayed added to the heading when the post if clicked on
+            # Lab Testing, Partner co-creation and co-design, Accessibility, Online research and testing, Events, F2F and testing
+            # or leave empty if not needed
+---
+
+We looked at the analytics for the [Covid page](https://findbusinesssupport.gov.scot/coronavirus-advice) for the last month.
+Over 56% of pageviews are for ‘browse support’ after visiting the Advice page in the past 2 months. This is good we want them to go there.
+
+## What the analytics tells us for the past month
+
+- the 'Coronavirus funding' button has only had 0.22% of pageviews (26)
+- the 'Coronavirus guidance' button has had 0.05% of pageviews (6)
+- most users are going to 'browse support' - 'browse support' has had 72.36% of pageviews (8,479)
+- the homepage link has been more popular than the 2 buttons (homepage - 1.58% of pageviews (185))
+- even the ‘Quick Guide’ has had more pageviews from the Covid advice page (1,07% of pageviews, 125 pageviews) (Note: it's the last link on the page)
+- users have been ignoring the buttons and/or these topics are possibly not the priority for users anymore
+
+## What we decided based on this
+- the buttons are at the best place (high on the page) so they are unlikely to get better use elsewhere on the page so we removed them
+- latest updates has been moved up
+
+
+[Visual for the page (before / after) with stats](/sep/files/FBS-Beta-covid-page-28-april-2021.pdf) (PDF)
