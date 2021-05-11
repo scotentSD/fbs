@@ -42,7 +42,7 @@ This tool will check your colours (on the left on the image) and if there is not
 ![screenshot of the website Accessible colours, showing alternatives when colour choice don't work](/files/FBS-BP-a11y-colours.png)
  
 
-#### Avoid using colour alone to signify meaning 
+<h4 style="padding-top: 1.5em; font-size: 1.5em;">Avoid using colour alone to signify meaning</h4>
 
  
 Some people can’t see colour well enough to notice if there’s a difference.  
@@ -60,7 +60,7 @@ For example, indicating an error message by displaying it in red might not be no
 
 <h3 style="padding-top: 1.5em; font-size: 2.4em;" id="links-and-buttons">Links and buttons</h3>
 
-#### Make the text meaningful 
+<h4 style="padding-top: 1.5em; font-size: 1.5em;"> Make the text meaningful</h4>
 
  
 Some people navigate your website using a screen reader. They will often scan your website by jumping from one interactive element (a link, a button or a menu item, for example) to the next, and the screen reader will read them the text of the elements out loud. 
@@ -75,7 +75,7 @@ For them, it’s really important that the text of your hyperlink or button is m
 
  
 
-#### Warn the user 
+<h4 style="padding-top: 1.5em; font-size: 1.5em;">Warn the user</h4>
 
 
 If you are taking the user to another website or if they are about to download something, they need to know first. Examples: 
@@ -86,35 +86,35 @@ If you are taking the user to another website or if they are about to download s
 
 For downloads, make sure you indicate the type of file and its size. 
 
-#### Mark your links correctly 
+<h4 style="padding-top: 1.5em; font-size: 1.5em;">Mark your links correctly</h4>
 
 People with visual impairments might not see your links if they only have a slightly different colour compared to the surrounding text. Underline links for better visibility. 
 
-#### Leave enough space to select safely 
+<h4 style="padding-top: 1.5em; font-size: 1.5em;">Leave enough space to select safely</h4>
 
 Your users might be using a small screen, or they might have hand tremors or be visually impaired, all of which can make it difficult to select a small target. Make sure you leave enough space between your links and buttons, so they don’t have to be too precise. 
 
  
 <h3 style="padding-top: 1.5em; font-size: 2.4em;" id="fonts-and-layout">Fonts and layout</h3>
 
-#### Align your text to the left and do not justify  
+<h4 style="padding-top: 1.5em; font-size: 1.5em;">Align your text to the left and do not justify</h4>  
 
 Justified text may be aligned nicely on both sides, but is much harder to read, especially for dyslexic people. 
 
 Some people will magnify their screen and can get lost in your page if you don’t align to the left. So always align left. 
 
-#### Avoid italics and underlining 
+<h4 style="padding-top: 1.5em; font-size: 1.5em;">Avoid italics and underlining</h4>
 
 Italics and underlined text can be harder to read, so avoid using these types of emphasis for entire paragraphs. Use only with moderation. 
 
-#### All caps 
+<h4 style="padding-top: 1.5em; font-size: 1.5em;">All caps</h4>
 
 Text that’s all in uppercase is also harder to read as you lose the shape of the words. This makes it especially hard for dyslexic people. Avoid putting your headings or buttons in all caps, for example, unless they are an acronym (remember to explain acronyms as well). 
 
 Note that some screen readers might also read letters one by one when they are uppercase, so this can be very annoying for screen reader users. 
 
  
-#### Fancy fonts 
+<h4 style="padding-top: 1.5em; font-size: 1.5em;">Fancy fonts</h4>
 
 Some people find these very hard to read – best to avoid them.
  
@@ -142,7 +142,7 @@ When using audio or video files, you need to provide an alternative for people w
 
 Videos with audio require captions synchronised with the audio track. All the audio in the video should be represented in these subtitles. They should include names, sounds and descriptions. 
 
-#### Types of captions: 
+<h4 style="padding-top: 1.5em; font-size: 1.5em;">Types of captions:</h4>
 
 - **Open caption0**s: embedded in the video itself, and cannot be turned off 
 - **Closed captioning**: can be turned on and off [best solution] 
@@ -166,7 +166,7 @@ Ideally, you should also **provide a transcript** of your media, so people c
 
 Avoid publishing PDFs and other documents online wherever possible. It’s usually more effective and accessible to repurpose the same content as an HTML webpage. 
 
-#### Problems with PDFs: 
+<h4 style="padding-top: 1.5em; font-size: 1.5em;">Problems with PDFs:</h4> 
 
 - they do not change size to fit the browser 
 - they’re not designed for reading on screens 
@@ -180,7 +180,7 @@ Source: <a href="https://gds.blog.gov.uk/2018/07/16/why-gov-uk-content-should-
 
 However, there may be situations where you can’t avoid publishing a document online or sharing it directly with a customer – for example, when sending funding applicants an offer letter or contract. It’s important that these documents are accessible, whether they’re being shared internally or externally. 
 
-#### Start by creating an accessible word document and then save it as a PDF
+<h4 style="padding-top: 1.5em; font-size: 1.5em;">Start by creating an accessible word document and then save it as a PDF</h4>
 
 Microsoft Word has a built-in accessibility checker. You will find the ‘Check accessibility’ function under ‘Review’ in the toolbar (highlighted in red in the picture below). 
 
@@ -254,7 +254,7 @@ If your organisation has a style guide, use it to help maintain consistency and 
 If your organisation does not have a style guide, the UK Government’s <a href="https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style" target="_blank">GDS style guide</a> is a useful resource and is used by Find Business Support. 
 
 
-<<h3 style="padding-top: 1.5em; font-size: 2.4em;" id="make-it-easy-to-find">Make it easy to find</h3>
+<h3 style="padding-top: 1.5em; font-size: 2.4em;" id="make-it-easy-to-find">Make it easy to find</h3>
 
 To help visitors find information on your site, you should: 
 
