@@ -9,22 +9,22 @@ title: Digital content best practice
 ## Quick access 
 
 ### Accessibility 
-- [Use of colour](#)
-- [Links and buttons](#)
-- [Fonts and layout](#)
-- [Images](#)
-- [Media files](#)
-- [Using PDFs](#)
+- [Use of colour](#use-of-colour)
+- [Links and buttons](#links-and-buttons)
+- [Fonts and layout](#fonts-and-layout)
+- [Images](#images)
+- [Media files](#media-files)
+- [Using PDFs](#using-pdfs)
 
 ### Writing for the web 
-- [Why online writing is different](#)
-- [Make it easy to scan](#)
-- [Use plain language](#)
-- [Be accurate](#)
-- [Make it easy to find](#)
+- [Why online writing is different](#why-online-writing-is-different)
+- [Make it easy to scan](#make-it-easy-to-scan)
+- [Use plain language](#use-plain-language)
+- [Be accurate](#be-accurate)
+- [Make it easy to find](#make-it-easy-to-find)
 
 ### Let's be green!
-- [Blog post: Let's green the web](#)
+- [Blog post: Let's green the web](#lets-be-green-1)
 
 <hr>
 
@@ -233,7 +233,7 @@ You can improve your content’s readability by following the <a href="http://ww
 - use the active voice wherever possible – it’s more direct and easier to understand 
 - avoid local sayings or idioms that may not be familiar to everyone in your audience  
 
- ### Be accurate 
+### Be accurate 
 
 Users need to feel confident that the information you provide is trustworthy and accurate. This means your content must be: 
 
