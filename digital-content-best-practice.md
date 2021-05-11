@@ -41,7 +41,6 @@ This tool will check your colours (on the left on the image) and if there is not
 
 ![screenshot of the website Accessible colours, showing alternatives when colour choice don't work](/files/FBS-BP-a11y-colours.png)
  
-<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
 
 
 <h4 style="padding-top: 1.5em; font-size: 1.5em;">Avoid using colour alone to signify meaning</h4>
@@ -78,7 +77,6 @@ For them, it’s really important that the text of your hyperlink or button is m
 **Wrong**: To find out more, [click here](). [‘Click here’ does not let the user know where the link will take them.] 
 
  
-<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
 
 <h4 style="padding-top: 1.5em; font-size: 1.5em;">Warn the user</h4>
 
@@ -94,8 +92,6 @@ For downloads, make sure you indicate the type of file and its size.
 <h4 style="padding-top: 1.5em; font-size: 1.5em;">Mark your links correctly</h4>
 
 People with visual impairments might not see your links if they only have a slightly different colour compared to the surrounding text. Underline links for better visibility. 
-
-<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
 
 <h4 style="padding-top: 1.5em; font-size: 1.5em;">Leave enough space to select safely</h4>
 
@@ -115,7 +111,7 @@ Some people will magnify their screen and can get lost in your page if you don�
 
 Italics and underlined text can be harder to read, so avoid using these types of emphasis for entire paragraphs. Use only with moderation. 
 
-<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
+
 
 <h4 style="padding-top: 1.5em; font-size: 1.5em;">All caps</h4>
 
@@ -179,7 +175,6 @@ Ideally, you should also **provide a transcript** of your media, so people c
 
 Avoid publishing PDFs and other documents online wherever possible. It’s usually more effective and accessible to repurpose the same content as an HTML webpage. 
 
-<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
 
 <h4 style="padding-top: 1.5em; font-size: 1.5em;">Problems with PDFs:</h4> 
 
@@ -194,8 +189,6 @@ Avoid publishing PDFs and other documents online wherever possible. It’s usual
 Source: <a href="https://gds.blog.gov.uk/2018/07/16/why-gov-uk-content-should-be-published-in-html-and-not-pdf" target="_blank">Why GOV.UK content should be published in HTML and not PDF</a>.
 
 However, there may be situations where you can’t avoid publishing a document online or sharing it directly with a customer – for example, when sending funding applicants an offer letter or contract. It’s important that these documents are accessible, whether they’re being shared internally or externally. 
-
-<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
 
 <h4 style="padding-top: 1.5em; font-size: 1.5em;">Start by creating an accessible word document and then save it as a PDF</h4>
 
@@ -289,3 +282,6 @@ To help visitors find information on your site, you should:
 - use plain language that visitors will readily understand, and which is more likely to match the queries they enter in search engines 
 - add tags to each page as appropriate (to facilitate internal search and filtering) 
 - make sure your site architecture makes sense, so people can browse for the topic they want 
+
+
+<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
