@@ -171,6 +171,8 @@ Ideally, you should also **provide a transcript** of your media, so people c
 1. a narrator describes all the visual information 
 2. there’s a separate audio track that describes the visual information 
 
+<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
+
 <h3 style="padding-top: 1.5em; font-size: 2.4em;" id="using-pdfs">Using PDFs</h3>
 
 Avoid publishing PDFs and other documents online wherever possible. It’s usually more effective and accessible to repurpose the same content as an HTML webpage. 
