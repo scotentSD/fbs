@@ -23,20 +23,17 @@ title: Digital content best practice
 - [Be accurate](#be-accurate)
 - [Make it easy to find](#make-it-easy-to-find)
 
-### Let's be green!
-- [Blog post: Let's green the web](#lets-be-green-1)
-
 <hr>
 
-## Accessiblity -  top tips
+<h2 style="color: #00427f; padding-top: 1em; font-size: 2.7em;">Accessiblity -  top tips</h2>
 
 We need to make sure that we don’t create barriers for people who are trying to access our services.  
 
 You might already know these digital accessibility top tips, but they are worth reviewing before you create any web content. 
 
-### Use of colour 
+<h3 style="padding-top: 1.5em; font-size: 2.4em;" id="use-of-colour">Use of colour</h3>
 
-#### Make sure your colours contrast enough 
+<h4 style="padding-top: 1.5em; font-size: 1.5em;">Make sure your colours contrast enough</h4>
 
 Consider the colour of the text against the background – you need to have enough contrast to allow for visibility. There are some tools to help you check this, such as ‘<a href="https://accessible-colors.com/" target="_blank">Accessible colors</a>’. 
 
@@ -61,7 +58,7 @@ For example, indicating an error message by displaying it in red might not be no
 ![screenshot showing a question in a form with an error message and some input fields for a date](/files/FBS-BP-error-colours.png)
 
 
-### Links and buttons  
+<h3 style="padding-top: 1.5em; font-size: 2.4em;" id="links-and-buttons">Links and buttons</h3>
 
 #### Make the text meaningful 
 
@@ -98,7 +95,7 @@ People with visual impairments might not see your links if they only have a slig
 Your users might be using a small screen, or they might have hand tremors or be visually impaired, all of which can make it difficult to select a small target. Make sure you leave enough space between your links and buttons, so they don’t have to be too precise. 
 
  
-### Fonts and layout 
+<h3 style="padding-top: 1.5em; font-size: 2.4em;" id="fonts-and-layout">Fonts and layout</h3>
 
 #### Align your text to the left and do not justify  
 
@@ -128,15 +125,18 @@ Some people find these very hard to read – best to avoid them.
 <span style="font-size: 2em; colour: #dddddd">and this doesn’t have enough contrast </span>
 
    
-### Images 
+<h3 style="padding-top: 1.5em; font-size: 2.4em;" id="images">Images</h3>
 
 If you’re using images in your document that contain important meaning, information or text, make sure you add **alt text**. This is basically a short description of the image. This means users who can’t see the image won’t miss out on important information as their screen readers will read them the alt text. 
-
-You don’t need to add alt text to decorative images, but ideally these should be avoided anyway, as they only distract people from their goal. 
  
 Here is a <a href="https://axesslab.com/alt-texts" target="_blank">good page that explains more about alt text</a> and how to do it well, and also <a href="https://webaim.org/techniques/alttext" target="_blank">more extensive guidance</a>. Also see this <a href="https://thoughtbot.com/blog/alt-vs-figcaption" target="_blank">blog post about whether you should use a caption or alt text</a>. 
 
-### Media files 
+You don’t need to add alt text to decorative images, but ideally these should be avoided anyway, as they only distract people from their goal and slow down page load times.
+Adding unnecessary images to your site also has an environmental impact. Every time a page loads, it emits carbon emissions. The more data there is to load, the more emissions will be produced. 
+You can <a href="https://design.scotentblog.co.uk/lets-green-the-web/" target="_blank">read more about greening the web</a> in this blog post, or <a href="https://www.websitecarbon.com/" target="_blank">calculate your website’s carbon footprint</a>.
+
+
+<h3 style="padding-top: 1.5em; font-size: 2.4em;" id="media-files">Media files</h3>
 
 When using audio or video files, you need to provide an alternative for people who can’t hear or see. 
 
@@ -162,7 +162,7 @@ Ideally, you should also **provide a transcript** of your media, so people c
 1. a narrator describes all the visual information 
 2. there’s a separate audio track that describes the visual information 
 
-### Using PDFs 
+<h3 style="padding-top: 1.5em; font-size: 2.4em;" id="using-pdfs">Using PDFs</h3>
 
 Avoid publishing PDFs and other documents online wherever possible. It’s usually more effective and accessible to repurpose the same content as an HTML webpage. 
 
@@ -197,9 +197,9 @@ To use it:
 A good article about making Word documents accessible: <a href="https://www.abrightclearweb.com/accessible-word-document-checklist" target="_blank">An Accessible Word Document Checklist</a>. 
 
 
-## Writing for the web – top tips 
+<h2 style="color: #00427f; padding-top: 1em; font-size: 2.7em;">Writing for the web – top tips</h2>
 
-### Why online writing is different 
+<h3 style="padding-top: 1.5em; font-size: 2.4em;" id="why-online-writing-is-different">Why online writing is different</h3>
 
 Writing for an online audience is different than writing for regular print readers. When creating written content for the web, remember: 
 
@@ -210,7 +210,7 @@ Writing for an online audience is different than writing for regular print reade
 
 Here are some pointers to make sure your content is useful for everyone in your audience:  
 
-### Make it easy to scan 
+<h3 style="padding-top: 1.5em; font-size: 2.4em;" id="make-it-easy-to-scan">Make it easy to scan</h3>
 
 Make sure users can glance over your content and quickly find and understand the information they need. Here’s how: 
 - keep sentences and paragraphs short – think small chunks of text (ideally 15 to 20 words per sentence, and a few lines per paragraph) 
@@ -221,7 +221,7 @@ Make sure users can glance over your content and quickly find and understand the
 - avoid unnecessary capital letters, italics, bold print and other style elements that can make text harder to read 
 - don’t write in all caps 
 
-### Use plain language 
+<h3 style="padding-top: 1.5em; font-size: 2.4em;" id="use-plain-language">Use plain language</h3>
 
 User tests show that much government information published online <a href="https://resources.mygov.scot/content-standards/content-delivery/creating-content/readability/" target="_blank">uses language that is too advanced</a> for its audience.  
 
@@ -233,7 +233,7 @@ You can improve your content’s readability by following the <a href="http://ww
 - use the active voice wherever possible – it’s more direct and easier to understand 
 - avoid local sayings or idioms that may not be familiar to everyone in your audience  
 
-### Be accurate 
+<h3 style="padding-top: 1.5em; font-size: 2.4em;" id="be-accurate">Be accurate</h3>
 
 Users need to feel confident that the information you provide is trustworthy and accurate. This means your content must be: 
 
@@ -254,7 +254,7 @@ If your organisation has a style guide, use it to help maintain consistency and 
 If your organisation does not have a style guide, the UK Government’s <a href="https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style" target="_blank">GDS style guide</a> is a useful resource and is used by Find Business Support. 
 
 
-### Make it easy to find 
+<<h3 style="padding-top: 1.5em; font-size: 2.4em;" id="make-it-easy-to-find">Make it easy to find</h3>
 
 To help visitors find information on your site, you should: 
 
@@ -262,7 +262,3 @@ To help visitors find information on your site, you should:
 - use plain language that visitors will readily understand, and which is more likely to match the queries they enter in search engines 
 - add tags to each page as appropriate (to facilitate internal search and filtering) 
 - make sure your site architecture makes sense, so people can browse for the topic they want 
-
-
-## Let's be green!
-We have a blog post with a few pointers to make greener websites: <a href="https://design.scotentblog.co.uk/lets-green-the-web/" target="_blank">Let's green the web</a>.
