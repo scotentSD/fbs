@@ -41,6 +41,8 @@ This tool will check your colours (on the left on the image) and if there is not
 
 ![screenshot of the website Accessible colours, showing alternatives when colour choice don't work](/files/FBS-BP-a11y-colours.png)
  
+<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
+
 
 <h4 style="padding-top: 1.5em; font-size: 1.5em;">Avoid using colour alone to signify meaning</h4>
 
@@ -56,6 +58,8 @@ For example, indicating an error message by displaying it in red might not be no
 - the border of the date input fields is thicker and red 
 
 ![screenshot showing a question in a form with an error message and some input fields for a date](/files/FBS-BP-error-colours.png)
+
+<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
 
 
 <h3 style="padding-top: 1.5em; font-size: 2.4em;" id="links-and-buttons">Links and buttons</h3>
@@ -74,6 +78,7 @@ For them, it’s really important that the text of your hyperlink or button is m
 **Wrong**: To find out more, [click here](). [‘Click here’ does not let the user know where the link will take them.] 
 
  
+<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
 
 <h4 style="padding-top: 1.5em; font-size: 1.5em;">Warn the user</h4>
 
@@ -90,11 +95,14 @@ For downloads, make sure you indicate the type of file and its size.
 
 People with visual impairments might not see your links if they only have a slightly different colour compared to the surrounding text. Underline links for better visibility. 
 
+<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
+
 <h4 style="padding-top: 1.5em; font-size: 1.5em;">Leave enough space to select safely</h4>
 
 Your users might be using a small screen, or they might have hand tremors or be visually impaired, all of which can make it difficult to select a small target. Make sure you leave enough space between your links and buttons, so they don’t have to be too precise. 
 
- 
+ <a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
+
 <h3 style="padding-top: 1.5em; font-size: 2.4em;" id="fonts-and-layout">Fonts and layout</h3>
 
 <h4 style="padding-top: 1.5em; font-size: 1.5em;">Align your text to the left and do not justify</h4>  
@@ -106,6 +114,8 @@ Some people will magnify their screen and can get lost in your page if you don�
 <h4 style="padding-top: 1.5em; font-size: 1.5em;">Avoid italics and underlining</h4>
 
 Italics and underlined text can be harder to read, so avoid using these types of emphasis for entire paragraphs. Use only with moderation. 
+
+<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
 
 <h4 style="padding-top: 1.5em; font-size: 1.5em;">All caps</h4>
 
@@ -124,6 +134,8 @@ Some people find these very hard to read – best to avoid them.
 
 <span style="font-size: 2em; colour: #dddddd">and this doesn’t have enough contrast </span>
 
+<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
+
    
 <h3 style="padding-top: 1.5em; font-size: 2.4em;" id="images">Images</h3>
 
@@ -135,6 +147,7 @@ You don’t need to add alt text to decorative images, but ideally these should 
 Adding unnecessary images to your site also has an environmental impact. Every time a page loads, it emits carbon emissions. The more data there is to load, the more emissions will be produced. 
 You can <a href="https://design.scotentblog.co.uk/lets-green-the-web/" target="_blank">read more about greening the web</a> in this blog post, or <a href="https://www.websitecarbon.com/" target="_blank">calculate your website’s carbon footprint</a>.
 
+<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
 
 <h3 style="padding-top: 1.5em; font-size: 2.4em;" id="media-files">Media files</h3>
 
@@ -144,7 +157,7 @@ Videos with audio require captions synchronised with the audio track. All the au
 
 <h4 style="padding-top: 1.5em; font-size: 1.5em;">Types of captions:</h4>
 
-- **Open caption0**s: embedded in the video itself, and cannot be turned off 
+- **Open captions**: embedded in the video itself, and cannot be turned off 
 - **Closed captioning**: can be turned on and off [best solution] 
 
 **Auto-generated captions** are better than nothing, but usually not great. They are often inaccurate, especially if the speaker has an accent or when captioning names (people, brands, places etc…). 
@@ -166,6 +179,8 @@ Ideally, you should also **provide a transcript** of your media, so people c
 
 Avoid publishing PDFs and other documents online wherever possible. It’s usually more effective and accessible to repurpose the same content as an HTML webpage. 
 
+<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
+
 <h4 style="padding-top: 1.5em; font-size: 1.5em;">Problems with PDFs:</h4> 
 
 - they do not change size to fit the browser 
@@ -179,6 +194,8 @@ Avoid publishing PDFs and other documents online wherever possible. It’s usual
 Source: <a href="https://gds.blog.gov.uk/2018/07/16/why-gov-uk-content-should-be-published-in-html-and-not-pdf" target="_blank">Why GOV.UK content should be published in HTML and not PDF</a>.
 
 However, there may be situations where you can’t avoid publishing a document online or sharing it directly with a customer – for example, when sending funding applicants an offer letter or contract. It’s important that these documents are accessible, whether they’re being shared internally or externally. 
+
+<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
 
 <h4 style="padding-top: 1.5em; font-size: 1.5em;">Start by creating an accessible word document and then save it as a PDF</h4>
 
@@ -196,6 +213,8 @@ To use it:
  
 A good article about making Word documents accessible: <a href="https://www.abrightclearweb.com/accessible-word-document-checklist" target="_blank">An Accessible Word Document Checklist</a>. 
 
+<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
+
 
 <h2 style="color: #00427f; padding-top: 1em; font-size: 2.7em;">Writing for the web – top tips</h2>
 
@@ -210,6 +229,8 @@ Writing for an online audience is different than writing for regular print reade
 
 Here are some pointers to make sure your content is useful for everyone in your audience:  
 
+<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
+
 <h3 style="padding-top: 1.5em; font-size: 2.4em;" id="make-it-easy-to-scan">Make it easy to scan</h3>
 
 Make sure users can glance over your content and quickly find and understand the information they need. Here’s how: 
@@ -220,6 +241,8 @@ Make sure users can glance over your content and quickly find and understand the
 - present your most important information up-front (use the inverted pyramid model) 
 - avoid unnecessary capital letters, italics, bold print and other style elements that can make text harder to read 
 - don’t write in all caps 
+
+<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
 
 <h3 style="padding-top: 1.5em; font-size: 2.4em;" id="use-plain-language">Use plain language</h3>
 
@@ -232,6 +255,8 @@ You can improve your content’s readability by following the <a href="http://ww
 - if you must use an acronym, spell it out at the first instance of using it 
 - use the active voice wherever possible – it’s more direct and easier to understand 
 - avoid local sayings or idioms that may not be familiar to everyone in your audience  
+
+<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
 
 <h3 style="padding-top: 1.5em; font-size: 2.4em;" id="be-accurate">Be accurate</h3>
 
@@ -252,6 +277,8 @@ All copy should be carefully proofread and fact-checked when it is first publish
 If your organisation has a style guide, use it to help maintain consistency and quality across your content. A style guide sets out which conventions to follow in terms of spelling, capitalisation, formatting and more. 
 
 If your organisation does not have a style guide, the UK Government’s <a href="https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style" target="_blank">GDS style guide</a> is a useful resource and is used by Find Business Support. 
+
+<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
 
 
 <h3 style="padding-top: 1.5em; font-size: 2.4em;" id="make-it-easy-to-find">Make it easy to find</h3>
