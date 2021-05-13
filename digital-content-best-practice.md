@@ -23,7 +23,6 @@ title: Digital content best practice
 - [Be accurate](#be-accurate)
 - [Make it easy to find](#make-it-easy-to-find)
 
-<hr>
 
 <h2 style="color: #00427f; padding-top: 1em; font-size: 2.7em;">Accessiblity -  top tips</h2>
 
@@ -58,7 +57,7 @@ For example, indicating an error message by displaying it in red might not be no
 
 ![screenshot showing a question in a form with an error message and some input fields for a date](/files/FBS-BP-error-colours.png)
 
-<a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
+<a href="#"style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
 
 
 <h3 style="padding-top: 1.5em; font-size: 2.4em;" id="links-and-buttons">Links and buttons</h3>
@@ -126,9 +125,9 @@ Some people find these very hard to read – best to avoid them.
  
 <span style="font-size: 2em">DON’T DO THIS, IT’S HARDER TO READ</span>
 
-<span style="font-size: 2em; font-family: caveat">this is harder too</span>
+<span style="font-size: 2em; font-family: caveat"><i>this is harder too</i></span>
 
-<span style="font-size: 2em; colour: #dddddd">and this doesn’t have enough contrast </span>
+<span style="font-size: 2em; color: #dddddd">and this doesn’t have enough contrast </span>
 
 <a href="#" style="padding: 8px 18px; border:solid 1px #00427f;text-decoration: none; font-weight: 600;  background-color: #d4e5f2; color: #1a1a1a">Back to top</a>
 
