@@ -15,3 +15,5 @@ type_of_event:  Content
 We recently developed new key messages for FBS to help better explain the site's vision and purpose. We then updated the [About Us page](https://findbusinesssupport.gov.scot/about-us) to reflect these new messages, both for the general public and for partners/stakeholders who may wish to talk about FBS on their own sites using the correct messaging.
 
 Work in progress...
+
+[Visual for the page (before/after)](/sep/files/FBS-about-us-page-changes.pdf) (PDF)
