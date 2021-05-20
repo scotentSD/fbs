@@ -1,7 +1,7 @@
 # Public BETA
 
 ## Vision
-_Provide a single digital access point for business support and develop and deliver a single, authenticated business I.D so that we can work more effectively across partners to meet the needs of businesses 'in the round' and so that businesses are no longer required to keep providing the same information to different partners._
+_Find Business Support gives customers an overview of all funding and services offered by public sector organisations across Scotland. This makes it quicker and easier for businesses to find the information, advice and support they need, when they need it._
 
 
 ## Production Links
