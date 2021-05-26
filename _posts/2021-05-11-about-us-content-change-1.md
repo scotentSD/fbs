@@ -12,8 +12,9 @@ type_of_event:  Content
             # or leave empty if not needed
 ---
 
-We recently developed new key messages for FBS to help better explain the site's vision and purpose. We then updated the [About Us page](https://findbusinesssupport.gov.scot/about-us) to reflect these new messages, both for the general public and for partners/stakeholders who may wish to talk about FBS on their own sites using the correct messaging.
+Recently we developed a series of key messages for FBS that explain the site's vision, design and function. This information gives background and context both to the public and to our partners and other stakeholders, who can also use the messages as a reference when speaking about FBS to their own audiences. 
 
-Work in progress...
+To make sure this information is prominent and easily accessible, we updated the content on the [About Us page](https://findbusinesssupport.gov.scot/about-us) to reflect the new messages, with sections on what the site is and why it was created, who runs it and how it can help businesses, plus details on site usage, visitors and newsletter subscribers. The page still carries a list of our partners and information on the help and complaints processes. We subsequently added another short section on the rationale behind the site design and how it improves our green credentials.
+
 
 [Visual for the page (before/after)](/sep/files/FBS-about-us-page-changes.pdf) (PDF)
