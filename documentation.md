@@ -11,7 +11,7 @@ We are documenting the main functionalties of the service in Word documents. The
 - [Progressive Web App (PWA)](https://scotent.sharepoint.com/:w:/r/sites/External-FindBusinessSupport/Project%20Space/Documentation%20-%202021/FBS-PWA-documentation.docx?d=w77fea9e50e7e4b3eac2c2a4d6b6924a0&csf=1&web=1&e=NtN3iu)
 
 ## Things we would like to add
-- ['See all updates'](https://scotent.sharepoint.com/:w:/r/sites/External-FindBusinessSupport/Project%20Space/Documentation%20-%202021/Content/FBS-See-all-updates-content-documentation.docx?d=w930fceb05a99480e8eb957ad4d698233&csf=1&web=1&e=rGOXVs) (so people can see the latest updated made to a support page)
+- ['See all updates'](https://scotent.sharepoint.com/:w:/r/sites/External-FindBusinessSupport/Project%20Space/Documentation%20-%202021/Content/FBS-See-all-updates-content-documentation.docx?d=w930fceb05a99480e8eb957ad4d698233&csf=1&web=1&e=rGOXVs) (so people can see the latest updates made to a support page)
 
 <br>
 <br>
