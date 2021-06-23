@@ -1,5 +1,5 @@
 ---
-title:Documentation
+title: Documentation
 ---
 # Documentation
 
@@ -12,3 +12,8 @@ We are documenting the main functionalties of the service in Word documents. The
 
 ## Things we would like to add
 - ['See all updates'](https://scotent.sharepoint.com/:w:/r/sites/External-FindBusinessSupport/Project%20Space/Documentation%20-%202021/Content/FBS-See-all-updates-content-documentation.docx?d=w930fceb05a99480e8eb957ad4d698233&csf=1&web=1&e=rGOXVs) (so people can see the latest updated made to a support page)
+
+<br>
+<br>
+
+<div>Last updated: {{site.time | date_to_string}}</div>
