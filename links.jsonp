@@ -1,1 +1,12 @@
-https://scotentsd.github.io/sep/index.html
+---
+---
+{% assign pages = site.static_files %}
+
+callback([
+  {% for p in pages %}
+    {
+    "text": "{{p.path | replace:'"','\"'}}",
+    "href": "{{site.baseurl}}{{p.path}}"
+    } {% unless forloop.last %},{% endunless%}
+  {% endfor %}
+])
