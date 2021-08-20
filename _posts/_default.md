@@ -5,6 +5,9 @@ title: null
 type: online
 phase: discovery
 published: true
+initials: ''
+display_date: ''
+tltitle: ''
 ---
 
 ## Audience and tool used
@@ -15,6 +18,7 @@ published: true
 
 ## Results
 - xxx
+![ddddddd]({{site.baseurl}}/files/Proposition 1.JPG)
 
 ## Supporting documents
 - [xxx](/sep/files/file.pdf)
