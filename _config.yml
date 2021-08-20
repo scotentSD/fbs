@@ -3,29 +3,12 @@
 #
 
 
-prose:
-  # rooturl: '_posts'
-  siteurl: 'http://scotentSD.github.io/opportunity/'
-  relativeLinks: 'http://scotentSD.github.io/sep/links.jsonp'
-  media: 'media'
-  metadata:
-    mktest:
-      - name: "tags"
-        field:
-          element: "select"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-            - name: "Pears"
-              value: "pears"
-            - name: "Mangos"
-              value: "mangos"
-            - name: "Oranges"
-              value: "oranges"
+prose: 
+ rooturl: '_posts'
+ siteurl: 'http://scotentSD.github.io/opportunity/'
+ relativeLinks: 'http://scotentSD.github.io/sep/links.jsonp'
+ media: 'media'
+ metadata:
    _posts:
     - name: "layout"
       field:
