@@ -1,11 +1,10 @@
 ---
+return_url: 'https://scotentsd.github.io/sep/timeline/'
 layout: post
-title: 
-type: 
-phase: 
-initials: 
-display_date: 
-return_url: "https://scotentsd.github.io/sep/timeline/"
+title: null
+type: online
+phase: discovery
+published: true
 ---
 
 ## Audience and tool used
@@ -19,5 +18,3 @@ return_url: "https://scotentsd.github.io/sep/timeline/"
 
 ## Supporting documents
 - [xxx](/sep/files/file.pdf)
-
-
