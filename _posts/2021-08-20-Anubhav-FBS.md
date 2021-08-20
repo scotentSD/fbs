@@ -3,7 +3,10 @@ return_url: 'https://scotentsd.github.io/sep/timeline/'
 layout: post
 type: lab
 phase: discovery
-published: false
+published: true
+initials: ''
+display_date: ''
+tltitle: ''
 ---
 ## Audience and tool used
 - xxx
