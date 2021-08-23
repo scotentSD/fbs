@@ -5,20 +5,61 @@ title: null
 type: online
 phase: discovery
 published: true
-initials: ''
-display_date: ''
-tltitle: ''
 ---
 
-## Audience and tool used
+## Phase
+    Discovery
+
+## Audience
 - xxx
 
-## What we tested
-- [xxx](https://news.bbc.co.uk) 
-
-## Results
+## We were focusing on 
 - xxx
-![ddddddd]({{site.baseurl}}/files/Proposition 1.JPG)
 
-## Supporting documents
-- [xxx](/sep/files/file.pdf)
+## What we discovered
+- xxx
+
+<!--more-->
+
+## Phase 
+    Discovery
+
+## Audience
+- Funding Project Team, Stakeholders, Product Owner & Customers
+
+## Focus
+- To test 
+- To establish 
+- To ensure users found the process:
+   - Intuitive
+   - Easy to understand
+   - Clear
+
+## What we discovered 
+
+| Learning
+| ---
+| 💡**lightbulb moment**
+| xxx
+| zzz
+
+🧰 ## We Changed  
+
+| Change
+| ---
+| 💡**lightbulb moment**
+| xxx
+| zzz
+
+
+## 🎧 Quotesß
+
+| Quote
+| ---
+| “xxx”
+| “xxx”
+| “xxx”
+
+
+
+<!--more-->
