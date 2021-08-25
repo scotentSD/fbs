@@ -42,7 +42,7 @@ We explored the following things:
 | The term "Outwith Scotland" was ambiguous and may only be well understood within Scotland
 | The Language was fairly good but potentially ambiguous
 | Users Confused **"I am looking for"** and **"I am looking for support with"**
-| From teh open card sort; 3 main categories emerged. Region, Support, Sector or Business Type
+| From the open card sort; 3 main categories emerged. Region, Support, Sector or Business Type
 
 
 ## 🧰  We Changed  
