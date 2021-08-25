@@ -45,14 +45,14 @@ We explored the following things:
 | From teh open card sort; 3 main categories emerged. Region, Support, Sector or Business Type
 
 
-🧰 ## We Changed  
+## 🧰  We Changed  
 
 | Change
 | ---
 | We iterated to another set of Group Headings
 
 
-## 🎧 Quotesß
+## 🎧 Quotes
 
 | Quote
 | ---
