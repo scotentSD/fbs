@@ -61,5 +61,6 @@ We explored the following things:
 | Where items can be placed in to two categories: Education, training as an example, give the option for them to sit within both.
 | I would have to say that some of these were a bit vague but overall, It wasn't that difficult for me to sort them in groups once I started working on this task
 
+[Read full report](../files/2021-08-06-FBS-CardSort-Closed-Filters-Aug2021.pptx)
 <!--more-->
 
