@@ -1,9 +1,12 @@
 ---
 return_url: 'https://scotentsd.github.io/sep/timeline/'
 layout: post
-type: lab
-phase: discovery
+type: online
+phase: live
 published: false
+initials: mk
+display_date: Aug 9th 2021
+tltitle: FBS Filter Headings V1
 ---
 ## Phase
     Live
