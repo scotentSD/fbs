@@ -9,7 +9,7 @@ display_date: Aug 9th 2021
 tltitle: FBS Filter Headings V1
 ---
 ## Phase
-    Live
+- Live
 
 ## Audience
 - UserTesting Generic Panel * 15 people
