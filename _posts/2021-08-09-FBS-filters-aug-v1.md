@@ -31,7 +31,7 @@ We explored the following things:
 ## What we discovered
 - They did not work that well for users
 
-<!--more-->
+
 
 ## What we discovered 
 
