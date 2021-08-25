@@ -3,7 +3,7 @@ return_url: 'https://scotentsd.github.io/sep/timeline/'
 layout: post
 type: online
 phase: live
-published: false
+published: true
 initials: mk
 display_date: Aug 9th 2021
 tltitle: FBS Filter Headings V1
