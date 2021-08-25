@@ -41,9 +41,10 @@ We explored the following things:
 | The **Grouping Headings  did not work that well** for users
 | The **items** listed within the groups **did make sense**
 | The term "Outwith Scotland" was ambiguous and may only be well understood within Scotland
-| 
-| zzz
-| zzz
+| The Language was fairly good but potentially ambiguous
+| Users Confused **"I am looking for"** and **"I am looking for support with"**
+| From teh open card sort; 3 main categories emerged. Region, Support, Sector or Business Type
+
 
 🧰 ## We Changed  
 
@@ -56,11 +57,9 @@ We explored the following things:
 
 | Quote
 | ---
-| “xxx”
-| “xxx”
-| “xxx”
-
-
+| Everything was clear but I was unsure about the ‘Outwith Scotland' 
+| Where items can be placed in to two categories: Education, training as an example, give the option for them to sit within both.
+| I would have to say that some of these were a bit vague but overall, It wasn't that difficult for me to sort them in groups once I started working on this task
 
 <!--more-->
 
