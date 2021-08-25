@@ -37,8 +37,7 @@ We explored the following things:
 
 | Learning
 | ---
-| 💡**lightbulb moment**
-| The **Grouping Headings  did not work that well** for users
+| | The **Grouping Headings  did not work that well** for users
 | The **items** listed within the groups **did make sense**
 | The term "Outwith Scotland" was ambiguous and may only be well understood within Scotland
 | The Language was fairly good but potentially ambiguous
