@@ -1,9 +1,12 @@
 ---
 return_url: 'https://scotentsd.github.io/sep/timeline/'
 layout: post
-type: lab
-phase: discovery
+type: online
+phase: live
 published: false
+initials: mk
+display_date: Aug 24 2021
+tltitle: FBS Filter Testing Aug V3
 ---
 ## Phase
 - Live
@@ -18,15 +21,23 @@ Follow this up with an Open Card Sort where people can chosse their own grouping
 
 We explored the following things: 
 
-- If the 5 filter category's make sense? 
-- If the items listed under each of the 5 filter category's make sense? 
-- If users want an "All Scotland“ as an option under the "I am located in" category? 
+- What information would the users provide about their company in order to find support
+- If the filter category's make sense? 
+- If the items listed under each of the filter category's make sense? 
 - Thoughts on the language used for categories 
 - If there was anything missing from the filter categories or the items under the categories.
+- The order of the filter categories that users would like to see when filtering
+
+## We proposed
+- What industry are you in?
+- Where is your organisation based?
+- What type of organisation are you?
+- What are you looking for support with?
+- How would you like your support delivered?
 
 
 ## What we discovered
-- They did not work that well for users
+- They worked wuite well for users 
 
 
 
@@ -34,19 +45,33 @@ We explored the following things:
 
 | Learning
 | ---
-| The **Grouping Headings  did not work that well** for users
-| The **items** listed within the groups **did make sense**
-| The term "Outwith Scotland" was ambiguous and may only be well understood within Scotland
-| The Language was fairly good but potentially ambiguous
-| Users Confused **"I am looking for"** and **"I am looking for support with"**
-| From the open card sort; 3 main categories emerged. Region, Support, Sector or Business Type
+|All users were able to successfully complete the card sort exercises with ease.
+|They categorized the items in the same way as the proposed solution (mostly, but with some overlap)
+|Filter categories and the items within them made sense to all the users
+|”How would you like your support delivered?” category was less clear to the users 
+|” What are you looking for support with?” filter category was the most important filter in terms of order of preference 
+|Overall, users found the language used for this exercise easy and straightforward
+|When asked about the information the users would provide public sector to receive support  following things were shared: their company details such as name, vat no, size, turnover, company description to issues that they were facing and the help that they wanted such as loan.
+
+
+## We asked "What was missing"
+| Missing
+| ---
+| Age of Business
+| Size of Business
+| Brexit
+| Covid*
+
+* Coronavirus is an option but not Covid
+
 
 
 ## 🧰  We Changed  
 
 | Change
 | ---
-| We iterated to another set of Group Headings
+| Nothing
+| These filters will now go to UX/DEV team for implementation review
 
 
 ## 🎧 Quotes
@@ -57,6 +82,6 @@ We explored the following things:
 | Where items can be placed in to two categories: Education, training as an example, give the option for them to sit within both.
 | I would have to say that some of these were a bit vague but overall, It wasn't that difficult for me to sort them in groups once I started working on this task
 
-[Read full report](../files/2021-08-06-FBS-CardSort-Closed-Filters-Aug2021.pptx)
+[Read full report](../files/2021-08-06-FBS-CardSort-Closed-Filters-Aug2021-V3.pptx)
 <!--more-->
 
