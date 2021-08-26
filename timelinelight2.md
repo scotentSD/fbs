@@ -9,7 +9,7 @@ title: Research Timeline  (v2)
         <li class="timeline_card">
           <div class="timeline_head {{post.type}}">
             <a href="{{site.url}}/{{site.github.repository_name}}{{post.url}}">
-              <div class="date_{{post.type}}" > {{ post.display_date }} :: {{ post.title}}</div>
+              <div class="date_{{post.type}}" > {{ post.display_date }} :: {{ post.tltitle}}</div>
             <!-- <br>  -->
             <div class="type_{{post.type}}" > </div>  
             </a>
