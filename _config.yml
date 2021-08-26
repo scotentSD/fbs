@@ -55,10 +55,10 @@ prose:
         element: "text"
         label: "Display_Date"
         value: ""
-    - name: "tltitle"
+    - name: "title"
       field:
         element: "text"
-        label: "Title"
+        label: "Title_V2"
         value: ""
     - name: "return_url"
       field:
