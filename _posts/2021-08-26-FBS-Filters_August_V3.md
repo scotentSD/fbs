@@ -3,7 +3,7 @@ return_url: 'https://scotentsd.github.io/sep/timeline/'
 layout: post
 type: online
 phase: live
-published: false
+published: true
 initials: mk
 display_date: Aug 24 2021
 tltitle: FBS Filter Testing Aug V3
@@ -84,4 +84,3 @@ We explored the following things:
 
 [Read full report](../files/2021-08-06-FBS-CardSort-Closed-Filters-Aug2021-V3.pptx)
 <!--more-->
-
