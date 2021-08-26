@@ -1,6 +1,6 @@
 ---
 layout: post                # Don't change this from "post"
-title: Analytics on the COVID after quick re-design # Title to show on the page
+tltitle: Analytics on the COVID after quick re-design # Title to show on the page
 type: other                 # Chose from: lab, online, a11y, other, partner
 phase: live                 # chose from discovery, alpha, beta, live
 initials: sk             # initials of person who did/uploaded the research

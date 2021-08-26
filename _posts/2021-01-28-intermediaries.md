@@ -1,6 +1,6 @@
 ---
 layout: post                # Don't change this from "post"
-title: Intermediaries user testing 28 January 2021  # Title to show on the page
+tltitle: Intermediaries user testing 28 January 2021  # Title to show on the page
 type: lab                 # Chose from: lab, online, a11y, other, partner
 phase: live                 # chose from discovery, alpha, beta, live
 initials: mk               # initials of person who did/uploaded the research

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SEP Events
+tltitle: SEP Events
 type: online
 phase: beta
 initials: mk

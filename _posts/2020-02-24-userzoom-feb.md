@@ -1,6 +1,6 @@
 ---
 layout: post                # Don't change this from "post"
-title: Online testing (February) of About us, events, map, waiting list & search   # Title to show on the page
+tltitle: Online testing (February) of About us, events, map, waiting list & search   # Title to show on the page
 type: online                  # Chose from: lab, online, a11y, other, partner
 phase: beta                 # chose from discovery, alpha, beta, live
 initials: am               # initials of person who did/uploaded the research

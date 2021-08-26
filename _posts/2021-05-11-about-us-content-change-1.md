@@ -1,6 +1,6 @@
 ---
 layout: post                # Don't change this from "post"
-title: Changes on the About Us page  # Title to show on the page
+tltitle: Changes on the About Us page  # Title to show on the page
 type: other                # Chose from: lab, online, a11y, other, partner
 phase: live                 # chose from discovery, alpha, beta, live
 initials: dg               # initials of person who did/uploaded the research

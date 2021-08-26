@@ -1,6 +1,6 @@
 ---
 layout: post                # Don't change this from "post"
-title: One-to-one user testing 27-28 January 2021  # Title to show on the page
+tltitle: One-to-one user testing 27-28 January 2021  # Title to show on the page
 type: lab                 # Chose from: lab, online, a11y, other, partner
 phase: live                 # chose from discovery, alpha, beta, live
 initials: kd               # initials of person who did/uploaded the research

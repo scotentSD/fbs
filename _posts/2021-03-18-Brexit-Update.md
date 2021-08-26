@@ -1,6 +1,6 @@
 ---
 layout: post                # Don't change this from "post"
-title: Operate after Brexit  # Title to show on the page
+tltitle: Operate after Brexit  # Title to show on the page
 type: lab                 # Chose from: lab, online, a11y, other, partner
 phase: live                 # chose from discovery, alpha, beta, live
 initials: kd               # initials of person who did/uploaded the research
