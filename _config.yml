@@ -60,11 +60,6 @@ prose:
         element: "text"
         label: "Title"
         value: ""
-    - name: "title"
-      field:
-        element: "text"
-        label: "Title_v3"
-        value: ""
     - name: "return_url"
       field:
         element: "hidden"
