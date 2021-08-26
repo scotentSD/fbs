@@ -3,7 +3,7 @@
  
   <head>
     {% include meta.html %}
-    <title>{% if page.title  %}{{ page.title }} – {% endif %}{{ site.title }}</title>
+    <title>{% if page.tltitle  %}{{ page.tltitle }} – {% endif %}{{ site.tltitle }}</title>
     <link rel="stylesheet" type="text/css" media="screen" href="https://scotentsd.github.io/assets/css/style.css">
     <link rel="icon" href="https://scotentsd.github.io/images/favicon.ico">
   </head>
@@ -24,7 +24,7 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {% include breadcrumbs.html %}
-        <h1 id="post_title">{{page.title }}{% if page.type_of_event %} - {{page.type_of_event}}{% endif %}</h1>
+        <h1 id="post_title">{{page.tltitle }}{% if page.type_of_event %} - {{page.type_of_event}}{% endif %}</h1>
         {{ content }}
       </section>
     </div>
@@ -36,7 +36,7 @@
             <img class="imgFooter" alt="Design in the open logo" src="https://scotentsd.github.io/images/designintheopen-white.png" style="width:200px; border:none;">
         </a>
         {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p class="copyright">{{ site.tltitle | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
         <br />
