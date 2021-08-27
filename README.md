@@ -7,18 +7,18 @@ _Find Business Support gives customers an overview of all funding and services o
 ## Production Links
 - Live: <a href="https://findbusinesssupport.gov.scot/" target="_blank">https://findbusinesssupport.gov.scot/</a>
 
-## After the Beta Assessment
-
+## Research Timeline
 - [Research Timeline](timeline/) - from the start of the project up to now
+- [Research Timeline Summary - V2 - Summary](timelinelight2/)
+- [Research Timeline Summary - V3 - Summary - Super Short](timelinelight3/)
+- 
+## After the Beta Assessment
 - [Quick Redesign January 2021](quick-redesign-jan-2021/)
 - [Content guide - accessibility and online writing - Best practice](digital-content-best-practice)
 - [Documentation](documentation/)
 
 
 ## Beta Assessment Artefacts
-
-- [Research Timeline Summary - V2 - Summary](timelinelight2/)
-- [Research Timeline Summary - V3 - Summary - Super Short](timelinelight3/)
 
 ### Research
 
@@ -37,6 +37,7 @@ _Find Business Support gives customers an overview of all funding and services o
 - [Research Session Permissions - Beta](files/Research_Permissions_v2.pdf)
 - [Ethics Checklist Template - Beta](files/Research_Ethics_Checklist_and_Guidance.pdf)
 - [Ethics Plan](files/SEP_Ethics_Plan.pdf) - (draft)
+- [Research Timeline](timeline/) 
 
 ### Other artefacts
 
