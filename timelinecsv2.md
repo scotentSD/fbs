@@ -17,12 +17,20 @@ title: Research Timeline  (csv)
       {{ Rstats.Description }}
       
       <h2>What we learned</h2>
-      {{ Rstats.What we learned }}
+      {{ Rstats.Learned }}
 
       <h2>Themes</h2>
       {{ Rstats.Themes }}
-
       
+      <h2>Insights</h2>
+      {{ Rstats.Themes }}
+      
+      <h2>Recommendations</h2>
+      {{ Rstats.Recommendations }}
+      
+      <h2>Quotes</h2>
+      {{ Rstats.Quotes }}
+ 
     </div>
   </li>
 {% endfor %}
