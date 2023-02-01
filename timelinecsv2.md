@@ -13,8 +13,8 @@ title: Research Timeline  (csv)
       {{ Rstats.Title }}
     </div>
     <div class="timeline_body">
-            <h2>{{ Rstats.Title}}</h2>
-             {{ Rstats.Description }}
+      <h2>{{ Rstats.Title}}</h2>
+      {{ Rstats.Description }}
     </div>
     </a>
   </li>
