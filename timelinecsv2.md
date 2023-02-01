@@ -23,7 +23,7 @@ title: Research Timeline  (csv)
       {{ Rstats.Themes }}
       
       <h2>Insights</h2>
-      {{ Rstats.Themes }}
+      {{ Rstats.Insights }}
       
       <h2>Recommendations</h2>
       {{ Rstats.Recommendations }}
