@@ -10,11 +10,19 @@ title: Research Timeline  (csv)
     
     <div class="timeline_head online">
       <div class="date_online" > {{ Rstats.Date }} </div>
-      {{ Rstats.Title }}
+      <div class="date_online" > {{ Rstats.Title }} </div>
     </div>
     <div class="timeline_body">
-      <h2>{{ Rstats.Title}}</h2>
+      <h2>Description</h2>
       {{ Rstats.Description }}
+      
+      <h2>What we learned</h2>
+      {{ Rstats.What we learned }}
+
+      <h2>Themes</h2>
+      {{ Rstats.Themes }}
+
+      
     </div>
   </li>
 {% endfor %}
