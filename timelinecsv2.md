@@ -16,7 +16,6 @@ title: Research Timeline  (csv)
       <h2>{{ Rstats.Title}}</h2>
       {{ Rstats.Description }}
     </div>
-    </a>
   </li>
 {% endfor %}
 </ul>
