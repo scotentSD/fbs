@@ -9,8 +9,8 @@ title: Research Timeline  (csv)
   <li  class="timeline_card">
     
     <div class="timeline_head online">
-      <div class="date_online" > {{ Rstats.Date }} </div>
-      <div class="date_online" > {{ Rstats.Title }} </div>
+      <div class="date_other" > {{ Rstats.Date }} </div>
+      <div class="date_other" > {{ Rstats.Title }} </div>
     </div>
     <div class="timeline_body">
       <h2>Description</h2>
