@@ -24,4 +24,4 @@ title: BETA timeline
        </li>
     {% endfor %}
   </ul>
-</section>
+</section> 
