@@ -4,7 +4,7 @@ title: Research Timeline  (csv)
 
 <section id="timeline">
 
-  <h1>Research Timeline Summary</h1>
+<h1>Research Timeline Summary</h1>
 <ul class="timeline_ul">
 {% for Rstats in site.data.ResearchStatsFbs %}
   <li  class="timeline_card">
@@ -29,9 +29,11 @@ title: Research Timeline  (csv)
       <h2>Recommendations</h2>
       {{ Rstats.Recommendations }}
       
-      <h2>Quotes</h2>
-      {{ Rstats.Quotes }}
- 
+      {% unless {{ Rstats.Quotes }} == "" %}
+        <h2>Quotes</h2>
+        {{ Rstats.Quotes }}
+      {% endunless %}
+
     </div>
   </li>
 {% endfor %}
